@@ -1,0 +1,4957 @@
+{
+  "EMA": {
+    "ema_word-list_1962_01.html": {
+      "Emai-luleha-Ora": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ENG": {
+    "eng_word-list_1964_01.html": {
+      "Sound Illustrated": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "eng_word-list_1966_01.html": {
+      "Sentence Type Illustrated": "",
+      "Pitch": "",
+      "IPA (with tone marking to show pitch)": "Form",
+      "English": "Gloss"
+    },
+    "eng_word-list_1966_02.html": {
+      "Sound Illustrated": "",
+      "English": "Gloss"
+    },
+    "eng_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "English": "Gloss Form"
+    },
+    "eng_word-list_1976_02.html": {
+      "Sound Illustrated": "",
+      "English": "Gloss Form"
+    },
+    "eng_word-list_1977_01.html": {
+      "Sound Illustrated": "",
+      "English": "Gloss Form"
+    }
+  },
+  "ISO": {
+    "iso_word-list_1962_01.html": {
+      "Isoko": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NDO": {
+    "ndo_word-list_1988_01.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ARZ": {
+    "arz_word-list_1971_01.html": {
+      "Arabic, Egyptian": "Form",
+      "English": "Gloss"
+    },
+    "arz_word-list_1979_01.html": {
+      "Arabic, Egyptian": "Form",
+      "English": "Gloss"
+    },
+    "arz_word-list_1981_01.html": {
+      "Arabic, Egyptian": "Form",
+      "Second Transcription": "",
+      "English": "Gloss"
+    },
+    "arz_word-list_1984_01.html": {
+      "Sound Illustrated": "",
+      "Arabic, Egyptian Orthography": "Form",
+      "Phonetic": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ALE_EASTERN": {
+    "ale_eastern_word-list_1996_01.html": {
+      "Native Orthography": "",
+      "Alternants/Corrections/IPA transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HAU": {
+    "hau_word-list_1961_01.html": {
+      "Hausa": "Form",
+      "English": "Gloss"
+    },
+    "hau_word-list_1962_01.html": {
+      "Hausa (target word)": "Form",
+      "English (target gloss)": "Gloss",
+      "English (full gloss)": ""
+    },
+    "hau_word-list_1973_01.html": {
+      "Sound illustrated": "",
+      "Hausa orthography": "",
+      "Hausa transcription": "Form",
+      "English": "Gloss"
+    },
+    "hau_word-list_1974_01.html": {
+      "Sound illustrated": "",
+      "Hausa orthography": "",
+      "Hausa transcription": "Form",
+      "English": "Gloss"
+    },
+    "hau_word-list_1981_01.html": {
+      "Sound illustrated": "",
+      "Hausa orthography": "",
+      "Hausa transcription": "Form",
+      "English": "Gloss"
+    },
+    "hau_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "Hausa": "Form",
+      "English": "Gloss"
+    },
+    "hau_word-list_0000_02.html": {
+      "Sound illustrated": "",
+      "Hausa orthography": "",
+      "Hausa transcription": "Form",
+      "English": "Gloss"
+    },
+    "hau_conversation_1980_01.html": {
+      "Speaker": "",
+      "Hausa": "Form",
+      "English": "Gloss"
+    },
+    "hau_conversation_1980_02.html": {
+      "Speaker": "",
+      "Hausa": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KLU": {
+    "klu_word-list_1976_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "WBM": {
+    "wbm_word-list_1983_01.html": {
+      "Wa": "Form",
+      "English": "Gloss"
+    },
+    "wbm_word-list_1983_02.html": {
+      "Wa": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BWR": {
+    "bwr_word-list_1961_01.html": {
+      "Bura": "Form",
+      "English": "Gloss"
+    },
+    "bwr_word-list_1981_01.html": {
+      "Illustrated Sound": "",
+      "Bura Orthography": "",
+      "Bura IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MRT": {
+    "mrt_word-list_1962_01.html": {
+      "Marghi (Central)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SND": {
+    "snd_word-list_1981_01.html": {
+      "Sindhi": "Form",
+      "English": "Gloss"
+    },
+    "snd_word-list_0000_01.html": {
+      "Sindhi": "Form",
+      "English": "Gloss"
+    },
+    "snd_story_1972_01.html": {
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "CRO": {
+    "cro_word-list_1988_01.html": {
+      "Crow": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NAV": {
+    "nav_word-list_1973_01.html": {
+      "Notes": "Form",
+      "English": "Gloss"
+    },
+    "nav_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "nav_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nav_word-list_1992_01.html": {
+      "Notes": "",
+      "English": "Gloss"
+    },
+    "nav_word-list_1992_02.html": {
+      "Notes": "",
+      "English": "Gloss"
+    },
+    "nav_word-list_1992_03.html": {
+      "Notes": "",
+      "English": "Gloss"
+    },
+    "nav_word-list_1993_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "nav_word-list_1993_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "nav_word-list_1993_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    }
+  },
+  "URH": {
+    "urh_word-list_1960_01.html": {
+      "Urhobo": "Form",
+      "English": "Gloss"
+    },
+    "urh_word-list_1984_01.html": {
+      "Urhobo Orthography": "",
+      "Urhobo (IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "OGO": {
+    "ogo_word-list_1984_01.html": {
+      "Sound illustrated": "",
+      "Khana": "Form",
+      "English": "Gloss"
+    },
+    "ogo_word-list_1984_02.html": {
+      "Khana": "Form",
+      "English": "Gloss"
+    },
+    "ogo_word-list_1984_03.html": {
+      "Sound Illustrated": "",
+      "Khana": "Form",
+      "English": "Gloss"
+    },
+    "ogo_word-list_1984_04.html": {
+      "Sound Illustrated": "",
+      "Khana": "Form",
+      "English": "Gloss"
+    },
+    "ogo_word-list_1984_05.html": {
+      "Sound Illustrated": "",
+      "Khana": "Form",
+      "English": "Gloss"
+    },
+    "ogo_word-list_1984_06.html": {
+      "Sound Illustrated": "",
+      "Khana": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HNI": {
+    "hni_word-list_1983_01.html": {
+      "Hani": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HUC": {
+    "huc_word-list_1979_01.html": {
+      "Transcription": "Form",
+      "English gloss": "Gloss",
+      "Setswana gloss": ""
+    },
+    "huc_word-list_1979_02.html": {
+      "Notes on Recording": ""
+    }
+  },
+  "HEB": {
+    "heb_word-list_1974_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_word-list_1975_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_word-list_1982_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_word-list_1982_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_word-list_1986_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "heb_story_1970_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "GAX": {
+    "gax_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Romanization": "",
+      "Oromo": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MPZ": {
+    "mpz_word-list_1976_01.html": {
+      "Tone and Voice Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mpz_word-list_1976_02.html": {
+      "Notes on Recording": ""
+    }
+  },
+  "TON": {
+    "ton_word-list_1979_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ton_word-list_1984_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ton_word-list_1990_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ton_word-list_1991_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "FFM": {
+    "ffm_word-list_1962_01.html": {
+      "Fulfulde (Maasina)": "Form",
+      "English": "Gloss"
+    },
+    "ffm_word-list_1962_02.html": {
+      "Fulfulde (Maasina)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "QUH": {
+    "quh_word-list_1983_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "quh_word-list_1985_01.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "quh_word-list_1987_01.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "quh_word-list_1987_02.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TGL": {
+    "tgl_word-list_1973_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1975_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1979_01.html": {
+      "Orthography": "",
+      "IPA Tanscription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1981_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1982_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1983_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1983_02.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tgl_word-list_1984_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "tgl_conversation_1980_01.html": {
+      "Speaker": "",
+      "Romanization": "Form",
+      "English": "Gloss"
+    },
+    "tgl_conversation_1980_02.html": {
+      "Speaker": "",
+      "Romanization": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NZI": {
+    "nzi_word-list_1962_01.html": {
+      "Nzema": "Form",
+      "English": "Gloss"
+    },
+    "nzi_word-list_1962_02.html": {
+      "Nzema": "Form",
+      "English": "Gloss"
+    }
+  },
+  "JAV": {
+    "jav_word-list_1973_01.html": {
+      "Sound Illustrated": "",
+      "Javanese": "Form",
+      "English": "Gloss"
+    },
+    "jav_word-list_1973_02.html": {
+      "Sound Illustrated": "",
+      "Javanese": "Form",
+      "English": "Gloss"
+    },
+    "jav_word-list_1976_01.html": {
+      "Javanese": "Form",
+      "English": "Gloss"
+    },
+    "jav_word-list_1979_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "jav_word-list_1986_01.html": {
+      "Phoneme": "",
+      "Javanese": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SHK": {
+    "shk_word-list_0000_01.html": {
+      "Notes": "",
+      "English": "Gloss"
+    }
+  },
+  "MLT": {
+    "mlt_word-list_1986_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mlt_word-list_1987_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "IBO": {
+    "ibo_word-list_1962_01.html": {
+      "Igbo": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1962_02.html": {
+      "Igbo": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1962_03.html": {
+      "Igbo": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1966_01.html": {
+      "Potential assimilations": "",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Igbo Orthography": "",
+      "Transcription (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1976_02.html": {
+      "Igbo (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ibo_conversation_1981_01.html": {
+      "Speaker": "",
+      "Igbo": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1984_01.html": {
+      "Sound illustrated": "",
+      "Igbo orthography": "",
+      "Igbo transcription (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1984_02.html": {
+      "Sound illustrated": "",
+      "Igbo orthography": "",
+      "Igbo transcription": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1984_03.html": {
+      "Igbo (Owerri)": "Form",
+      "English": "Gloss"
+    },
+    "ibo_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Igbo": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DYO": {
+    "dyo_word-list_1962_01.html": {
+      "Jola-Fonyi": "Form",
+      "English": "Gloss",
+      "French": ""
+    },
+    "dyo_word-list_1962_02.html": {
+      "Jola-Fonyi": "Form",
+      "English": "Gloss",
+      "French": ""
+    }
+  },
+  "GUJ": {
+    "guj_word-list_1964_01.html": {
+      "IPA Transcription": "Form",
+      "English gloss": "Gloss"
+    },
+    "guj_word-list_1965_01.html": {
+      "Contrast \u02d0 Breathy Voice": ""
+    },
+    "guj_word-list_1972_01.html": {
+      "IPA transcription": "Form",
+      "English": "Gloss"
+    },
+    "guj_word-list_1976_01.html": {
+      "IPA Transcription": "Form",
+      "English gloss": "Gloss"
+    },
+    "guj_word-list_1981_01.html": {
+      "Phoneme": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "guj_word-list_1981_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SAD": {
+    "sad_word-list_1991_01.html": {
+      "IPA": "Form",
+      "English": "Gloss",
+      "Swahili": ""
+    },
+    "sad_word-list_1991_02.html": {
+      "IPA": "Form",
+      "English": "Gloss",
+      "Swahili": "",
+      "Semantic Category": ""
+    },
+    "sad_word-list_1991_03.html": {
+      "IPA": "Form",
+      "English": "Gloss",
+      "Swahili": "",
+      "Semantic Category": ""
+    }
+  },
+  "LUG": {
+    "lug_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "lug_word-list_1992_01.html": {
+      "Note": "",
+      "English Gloss": "Gloss"
+    },
+    "lug_story_0000_01.html": {
+      "Note": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "MED": {
+    "med_word-list_1976_01.html": {
+      "Isoko": "Form",
+      "English": "Gloss"
+    }
+  },
+  "YOR": {
+    "yor_word-list_1960_01.html": {
+      "Yoruba": "Form",
+      "English": "Gloss"
+    },
+    "yor_word-list_1962_01.html": {
+      "Yoruba": "Form",
+      "English": "Gloss"
+    },
+    "yor_word-list_1972_01.html": {
+      "Yoruba orthography": "",
+      "Yoruba (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "yor_word-list_1983_01.html": {
+      "Sound Illustrated": "",
+      "Yoruba Orthography": "",
+      "Yoruba (IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ITS": {
+    "its_word-list_1960_01.html": {
+      "Isekiri": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HGM": {
+    "hgm_word-list_1988_01.html": {
+      "Orthography": "Form",
+      "English": "Gloss",
+      "Afrikaans": ""
+    }
+  },
+  "PCM": {
+    "pcm_story_1966_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "WAR": {
+    "war_word-list_1979_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "war_word-list_1992_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "YEY": {
+    "yey_word-list_1998_01.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_02.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_03.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_04.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_05.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_06.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_07.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_08.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_09.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_10.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_11.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_12.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_13.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_14.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_15.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_16.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_17.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_18.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_19.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_20.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_21.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_22.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_23.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_24.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_25.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_26.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_27.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_28.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_29.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_30.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_31.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_32.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_33.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_34.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_35.html": {
+      "Sound Illustrated": "",
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_36.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_37.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_38.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_39.html": {
+      "Yeyi": "Form"
+    },
+    "yey_word-list_1998_40.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_41.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    },
+    "yey_word-list_1998_42.html": {
+      "Yeyi": "Form",
+      "English": "Gloss",
+      "Tswana": ""
+    },
+    "yey_word-list_1998_43.html": {
+      "Yeyi": "Form",
+      "English": "Gloss"
+    }
+  },
+  "OZM": {
+    "ozm_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "Notes": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "VEN": {
+    "ven_word-list_1988_01.html": {
+      "Venda": "Form",
+      "English": "Gloss",
+      "Notes (as written by P. Ladefoged):": ""
+    }
+  },
+  "PBU": {
+    "pbu_story_0000_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "DEG": {
+    "deg_word-list_1994_01.html": {
+      "IPA (Atala Dialect)": "Form",
+      "IPA (Usokun Dialect)": "",
+      "English": "Gloss"
+    }
+  },
+  "BHK": {
+    "bhk_word-list_1961_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "bhk_word-list_1961_02.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "HUN": {
+    "hun_word-list_1975_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hun_word-list_1980_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hun_word-list_1982_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hun_story_1957_01.html": {
+      "Note": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "PAG": {
+    "pag_conversation_1980_01.html": {
+      "Speaker": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TUR": {
+    "tur_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_1972_02.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_1974_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_1975_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_1990_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tur_word-list_0000_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "XTD": {
+    "xtd_word-list_1966_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DEU": {
+    "deu_word-list_1986_01.html": {
+      "German Orthography": "",
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Gloss": "Gloss"
+    },
+    "deu_word-list_1986_02.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "deu_word-list_1988_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "deu_word-list_1991_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    }
+  },
+  "SLV": {
+    "slv_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Slovenian": "Form",
+      "English": "Gloss"
+    }
+  },
+  "JAO": {
+    "jao_word-list_1976_01.html": {
+      "Yanyuwa": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BRV": {
+    "brv_word-list_1976_01.html": {
+      "Bruu": "Form",
+      "English": "Gloss"
+    },
+    "brv_word-list_1976_02.html": {
+      "Bruu": "Form",
+      "English": "Gloss"
+    },
+    "brv_word-list_1976_03.html": {
+      "Bruu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LAV": {
+    "lav_word-list_1970_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "lav_word-list_1972_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NEW": {
+    "new_word-list_1981_01.html": {
+      "Newari": "Form",
+      "English": "Gloss"
+    },
+    "new_word-list_1981_02.html": {
+      "Newari": "Form",
+      "English": "Gloss",
+      "Nepali": ""
+    }
+  },
+  "MWP": {
+    "mwp_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwp_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NNA": {
+    "nna_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "nna_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "nna_word-list_1990_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DAG": {
+    "dag_word-list_1962_01.html": {
+      "Dagbani": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LGQ": {
+    "lgq_word-list_1962_01.html": {
+      "Logba": "Form",
+      "English": "Gloss"
+    },
+    "lgq_word-list_1962_02.html": {
+      "Logba": "Form",
+      "English": "Gloss"
+    }
+  },
+  "UBY": {
+    "uby_word-list_1986_01.html": {
+      "Sound illustrated": "",
+      "Transcription": "Form",
+      "Turkish": "",
+      "English": "Gloss",
+      "French": ""
+    }
+  },
+  "MFA": {
+    "mfa_word-list_1985_01.html": {
+      "Malay, Pattani": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AVN": {
+    "avn_word-list_1962_01.html": {
+      "Avatime": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KEA": {
+    "kea_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BUL": {
+    "bul_word-list_1971_01.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "bul_word-list_1972_01.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "bul_word-list_1976_01.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "PAM": {
+    "pam_word-list_1974_01.html": {
+      "Orthography": "",
+      "Kapampangan": "Form",
+      "English": "Gloss"
+    },
+    "pam_word-list_1987_01.html": {
+      "Kapampangan Transcription (broad)": "Form",
+      "Second Transcription (narrow)": "",
+      "English": "Gloss"
+    },
+    "pam_word-list_1994_01.html": {
+      "Kapampangan (broad)": "Form",
+      "Kapampangan (narrow)": "",
+      "Kapampangan Orthography": "",
+      "English": "Gloss"
+    }
+  },
+  "MYP": {
+    "myp_word-list_1995_01.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_02.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_03.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_04.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_05.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_06.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_07.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_08.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_09.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_10.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_11.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_12.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_13.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_14.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_15.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_16.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_17.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_18.html": {
+      "Piraha": "Form",
+      "English": "Gloss"
+    },
+    "myp_word-list_1995_19.html": {
+      "Transcription": "Form",
+      "Literal Gloss": "Gloss",
+      "English Translation": ""
+    }
+  },
+  "LKT": {
+    "lkt_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "lkt_word-list_1983_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "FRA": {
+    "fra_word-list_1966_01.html": {
+      "Sound of Liaison Demonstrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "fra_word-list_1966_02.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "fra_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form"
+    },
+    "fra_word-list_1983_02.html": {
+      "Orthography": "",
+      "Transcription": "Form"
+    },
+    "fra_passage_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form"
+    },
+    "fra_word-list_1983_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Phonetic Transcription": "Form",
+      "Gloss": "Gloss"
+    },
+    "fra_word-list_1993_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": ""
+    },
+    "fra_word-list_2000_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "fra_word-list_0000_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "Gloss": "Gloss"
+    }
+  },
+  "IBB": {
+    "ibb_word-list_1984_01.html": {
+      "Ibibio": "Form",
+      "English": "Gloss"
+    },
+    "ibb_word-list_1984_02.html": {
+      "Ibibio": "Form",
+      "English": "Gloss"
+    },
+    "ibb_word-list_1984_03.html": {
+      "Ibibio": "Form",
+      "English": "Gloss"
+    },
+    "ibb_word-list_1984_04.html": {
+      "Ibibio": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NOD": {
+    "nod_word-list_2000_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    }
+  },
+  "MWW": {
+    "mww_word-list_2004_01.html": {
+      "Hmong Daw": "Form",
+      "English": "Gloss"
+    }
+  },
+  "VIE": {
+    "vie_word-list_1998_01.html": {
+      "Broad Transcription": "",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "vie_word-list_0000_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1971_01.html": {
+      "Notes": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1965_01.html": {
+      "Orthography": "",
+      "Northern Dialect Transcription": "Form",
+      "Southern Dialect Transcription": "",
+      "English": "Gloss"
+    },
+    "vie_word-list_1966_01.html": {
+      "Notes": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1974_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1975_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1979_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1981_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1982_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1982_02.html": {
+      "Tone": "",
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "English": "Gloss"
+    },
+    "vie_word-list_1982_03.html": {
+      "Tone": "",
+      "Phenemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "English": "Gloss"
+    },
+    "vie_word-list_1983_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1983_02.html": {
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "Gloss": ""
+    },
+    "vie_word-list_1985_01.html": {
+      "Tone": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "vie_word-list_1985_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1987_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "vie_word-list_1993_01.html": {
+      "Tone": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MNR": {
+    "bul_word-list_1971_01.html": {
+      "2": "",
+      "English": "Gloss"
+    }
+  },
+  "ITL": {
+    "itl_word-list_1995_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    }
+  },
+  "HTS": {
+    "hts_word-list_1991_01.html": {
+      "Hadza Root": "Form",
+      "Ending": "",
+      "English": "Gloss",
+      "Swahili": ""
+    },
+    "hts_word-list_1991_02.html": {
+      "Hadza Root": "Form",
+      "Ending": "",
+      "English": "Gloss",
+      "Swahili": ""
+    },
+    "hts_word-list_1991_03.html": {
+      "2": "",
+      "Hadza Root": "Form",
+      "Ending": "",
+      "English": "Gloss",
+      "Swahili": ""
+    }
+  },
+  "MHW": {
+    "mhw_word-list_1988_01.html": {
+      "Mbukushu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "IJN": {
+    "ijn_word-list_1960_01.html": {
+      "Kalabari": "Form",
+      "English": "Gloss"
+    },
+    "ijn_word-list_1984_01.html": {
+      "Sound Illustrated": "",
+      "Kalabari Orthography": "",
+      "Kalabari(IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NKO": {
+    "nko_word-list_1962_01.html": {
+      "Nkonya": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TAH": {
+    "tah_word-list_1975_01.html": {
+      "Tahitian Orthography": "",
+      "Tahitian": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GNN": {
+    "gnn_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Gumatj": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KQS": {
+    "kqs_word-list_1962_01.html": {
+      "Kissi": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BLC": {
+    "blc_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GSW": {
+    "gsw_word-list_1979_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "COG": {
+    "cog_word-list_1986_01.html": {
+      "Transcription with Tones": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "GLA": {
+    "gla_word-list_1997_01.html": {
+      "Gaelic Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "gla_story_1978_01.html": {
+      "Orthography": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "KMU": {
+    "kmu_word-list_1976_01.html": {
+      "Kanite": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CBV": {
+    "cbv_word-list_0000_01.html": {
+      "Phonetic Transcription": "Form",
+      "English": "Gloss",
+      "Spanish": ""
+    },
+    "cbv_word-list_0000_02.html": {
+      "Sound Illustrated": "",
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Spanish": "",
+      "English": "Gloss"
+    },
+    "cbv_story_0000_01.html": {
+      "Cacua in Transcription": "Form",
+      "Spanish Translation": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "PJT": {
+    "pjt_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Pitjantjatjara": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MZQ": {
+    "mzq_word-list_1973_01.html": {
+      "Sound Illustrated": "",
+      "Mori Atas": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LIA": {
+    "lia_word-list_1963_01.html": {
+      "Limba (West-Central)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LUO": {
+    "luo_word-list_1971_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "PRS": {
+    "prs_word-list_1982_01.html": {
+      "Transcription": "Form",
+      "Gloss": "Gloss"
+    },
+    "prs_word-list_1986_01.html": {
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "Gloss": "Gloss"
+    }
+  },
+  "MAK": {
+    "mak_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Makassarese Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mak_story_1972_01.html": {
+      "Makassarese Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SIN": {
+    "sin_word-list_1981_01.html": {
+      "Sound illustrated": "",
+      "Sinhalese (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "sin_word-list_1985_01.html": {
+      "Alternate orthography": "",
+      "Sinhalese (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "sin_word-list_1992_01.html": {
+      "Sinhala": "Form",
+      "English": "Gloss"
+    },
+    "sin_word-list_1974_01.html": {
+      "Sinhalese": "Form",
+      "English": "Gloss"
+    },
+    "sin_word-list_1979_01.html": {
+      "Sound illustrated": "",
+      "Sinhalese": "Form",
+      "English": "Gloss"
+    }
+  },
+  "OBU": {
+    "obu_word-list_1994_01.html": {
+      "Practical Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CYM": {
+    "cym_word-list_1972_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cym_story_1966_01.html": {
+      "Note": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "NNO": {
+    "nno_word-list_1975_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BOD": {
+    "bod_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "bod_word-list_1992_01.html": {
+      "Tibetan": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NAN": {
+    "nan_word-list_1984_01.html": {
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "nan_word-list_1985_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nan_word-list_1986_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nan_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nan_word-list_1990_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nan_word-list_1998_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BIN": {
+    "bin_word-list_1962_01.html": {
+      "Bini": "Form",
+      "English": "Gloss"
+    },
+    "bin_word-list_1962_02.html": {
+      "Bini": "Form",
+      "English": "Gloss"
+    },
+    "bin_word-list_1979_01.html": {
+      "Sound Illustrated": "",
+      "Bini Orthography": "",
+      "Bini (IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LIP": {
+    "lip_word-list_1962_01.html": {
+      "Sekpele": "Form",
+      "English": "Gloss"
+    }
+  },
+  "APW": {
+    "apw_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1982_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_01.html": {
+      "Sound Illustrated": "",
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_02.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_03.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_04.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_05.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_06.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_07.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    },
+    "apw_word-list_1996_08.html": {
+      "Apache": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HIN": {
+    "hin_word-list_1965_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hin_word-list_1974_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hin_word-list_1979_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Hindi": "Form",
+      "English": "Gloss"
+    },
+    "hin_word-list_1981_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hin_word-list_1981_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hin_word-list_1981_03.html": {
+      "Devanagari Script": "",
+      "IPA Transcription": "Form",
+      "Alt. Transcription": "",
+      "English Gloss": "Gloss",
+      "Alt. English Gloss": ""
+    },
+    "hin_word-list_1986_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hin_story_1970_01.html": {
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "WIM": {
+    "wim_word-list_1976_01.html": {
+      "Wik-Mungkan": "Form",
+      "English": "Gloss"
+    }
+  },
+  "COM": {
+    "com_word-list_1992_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "com_word-list_1992_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "com_word-list_1992_03.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "com_word-list_1992_04.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "com_word-list_1992_05.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KAA": {
+    "kaa_story_1970_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "KKY": {
+    "kky_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "kky_word-list_1989_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "kky_word-list_1989_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "kky_word-list_1989_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "kky_word-list_1989_05.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "kky_word-list_1989_06.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TAM": {
+    "tam_word-list_1981_01.html": {
+      "Tamil": "Form",
+      "English": "Gloss"
+    },
+    "tam_story_1970_01.html": {
+      "Transliteration": "Form",
+      "English Translation": "Gloss"
+    },
+    "tam_story_1972_01.html": {
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    },
+    "tam_story_1972_02.html": {
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "AJP": {
+    "ajp_word-list_1976_01.html": {
+      "Arabic, South Levantine Spoken": "Form",
+      "English": "Gloss"
+    },
+    "ajp_word-list_1983_01.html": {
+      "2": "",
+      "3": "",
+      "Narrow": "Form",
+      "English": "Gloss"
+    }
+  },
+  "IRK": {
+    "irk_word-list_1991_01.html": {
+      "Notes": ""
+    }
+  },
+  "WUU": {
+    "wuu_word-list_1980_01.html": {
+      "Transcription with Tones": "Form",
+      "English": "Gloss"
+    },
+    "wuu_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "wuu_word-list_1987_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    }
+  },
+  "VAI": {
+    "vai_word-list_1970_01.html": {
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "English": "Gloss"
+    }
+  },
+  "WBP": {
+    "wbp_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TSN": {
+    "tsn_word-list_1981_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss",
+      "Setswana Orthography": ""
+    }
+  },
+  "BFQ": {
+    "bfq_word-list_1990_01.html": {
+      "Badaga": "Form",
+      "English": "Gloss"
+    },
+    "bfq_word-list_1990_02.html": {
+      "Badaga": "Form",
+      "English": "Gloss"
+    },
+    "bfq_word-list_1992_01.html": {
+      "Badaga": "Form",
+      "English": "Gloss"
+    },
+    "bfq_word-list_1992_02.html": {
+      "Badaga": "Form",
+      "English": "Gloss"
+    },
+    "bfq_word-list_1992_03.html": {
+      "Badaga": "Form",
+      "English": "Gloss"
+    }
+  },
+  "EST": {
+    "est_story_1956_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    },
+    "est_story_1969_01.html": {
+      "Broad IPA Transcription": "Form",
+      "Narrow IPA Transcription": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "KOR": {
+    "kor_word-list_1966_01.html": {
+      "Note": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1974_01.html": {
+      "Phoneme": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1975_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1977_01.html": {
+      "Note": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1982_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1988_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1988_02.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "IPA Tanscription": "Form",
+      "English": "Gloss"
+    },
+    "kor_word-list_2000_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kor_story_1994_01.html": {
+      "Broad IPA Transcription of Korean Translation": "",
+      "Narrow IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "SWE": {
+    "swe_word-list_1975_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "swe_word-list_1981_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "swe_word-list_1984_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "swe_word-list_0000_01.html": {
+      "Notes": "Form",
+      "English Gloss": "Gloss"
+    },
+    "swe_story_0000_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "LAR": {
+    "lar_word-list_1962_01.html": {
+      "Larteh": "Form",
+      "English": "Gloss"
+    }
+  },
+  "IGB": {
+    "igb_word-list_1960_01.html": {
+      "Ebira": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KRI": {
+    "kri_word-list_1962_01.html": {
+      "Krio": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ACE": {
+    "ace_word-list_1973_01.html": {
+      "Sound Illustrated": "",
+      "Aceh": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GDJ": {
+    "gdj_word-list_1974_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "gdj_word-list_1974_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "gdj_word-list_1974_03.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "gdj_word-list_1974_04.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SNA": {
+    "sna_conversation_1980_01.html": {
+      "Speaker": "",
+      "Shona": "Form",
+      "English": "Gloss"
+    },
+    "sna_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Shona (Broad)": "Form",
+      "Shona (Narrow)": "",
+      "English": "Gloss"
+    }
+  },
+  "URD": {
+    "urd_word-list_1974_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "urd_word-list_1980_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "urd_word-list_1986_01.html": {
+      "Romanization": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "urd_word-list_2000_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "urd_story_1970_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "EWE": {
+    "ewe_word-list_1962_01.html": {
+      "Ewe": "Form",
+      "English": "Gloss"
+    },
+    "ewe_word-list_1962_02.html": {
+      "Ewe": "Form",
+      "English": "Gloss"
+    },
+    "ewe_word-list_1962_03.html": {
+      "Ewe": "Form",
+      "English": "Gloss"
+    },
+    "ewe_word-list_1962_04.html": {
+      "Ewe": "Form",
+      "English": "Gloss"
+    },
+    "ewe_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "Ewe Orthography": "",
+      "Ewe (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ewe_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LIT": {
+    "lit_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Phonemic Transcription": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "lit_word-list_1989_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "lit_word-list_0000_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BFD": {
+    "bfd_word-list_1962_01.html": {
+      "Bafut": "Form",
+      "English": "Gloss"
+    },
+    "bfd_word-list_1962_02.html": {
+      "Swadesh list in English": ""
+    }
+  },
+  "NGJ": {
+    "ngj_word-list_1988_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "FUC": {
+    "fuc_word-list_1972_01.html": {
+      "sound illustrated": "",
+      "Pulaar": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KAM": {
+    "kam_word-list_1972_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "HIL": {
+    "hil_word-list_1965_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hil_word-list_1979_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TTV": {
+    "ttv_word-list_1976_01.html": {
+      "Titan": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TCX": {
+    "tcx_word-list_1992_01.html": {
+      "Toda": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_02.html": {
+      "Toda": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_03.html": {
+      "Toda": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_04.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_05.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_06.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    },
+    "tcx_story.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1992_07.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    },
+    "tcx_word-list_1990_01.html": {
+      "Tod\u0251": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ACM": {
+    "acm_word-list_1964_01.html": {
+      "Arabic, Mesopotamian Spoken": "Form",
+      "English": "Gloss"
+    },
+    "acm_word-list_1964_02.html": {
+      "Arabic, Mesopotamian Spoken": "Form",
+      "English": "Gloss"
+    },
+    "acm_story_1982_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "PRV": {
+    "prv_story_0000_01.html": {
+      "Transcription": "Form",
+      "Notes": ""
+    }
+  },
+  "KZI": {
+    "kzi_word-list_1973_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "FUV": {
+    "fuv_word-list_1962_01.html": {
+      "Fulfulde (Nigerian)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DIU": {
+    "diu_word-list_1988_01.html": {
+      "Diriku Speech Recording 1": ""
+    },
+    "diu_word-list_1988_02.html": {
+      "Orthography": "Form",
+      "English Gloss": "Gloss"
+    },
+    "diu_word-list_1988_03.html": {
+      "Diriku Speech Recording 2": ""
+    }
+  },
+  "NAM": {
+    "nam_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MIZ": {
+    "miz_word-list_1966_01.html": {
+      "Sound Illustrated": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "Spanish Gloss": "",
+      "English Gloss": "Gloss"
+    }
+  },
+  "POW": {
+    "pow_word-list_1966_01.html": {
+      "Popoloca, San Felipe Otlaltepec": "Form",
+      "English": "Gloss"
+    },
+    "pow_word-list_1966_02.html": {
+      "Transcription": "Form",
+      "Spanish": "",
+      "English": "Gloss"
+    }
+  },
+  "SAZ": {
+    "saz_word-list_1984_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NUY": {
+    "nuy_word-list_1976_01.html": {
+      "Nunggubuyu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "UKR": {
+    "ukr_word-list_1966_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DHG": {
+    "dhg_word-list_1976_01.html": {
+      "Danghu (Wangurri)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TZM": {
+    "tzm_word-list_1973_01.html": {
+      "Tamazight phonemic transcription": "Form",
+      "English": "Gloss"
+    },
+    "tzm_conversation_1980_01.html": {
+      "Speaker": "",
+      "Berber (Tamazight)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "WGI": {
+    "wgi_word-list_1976_01.html": {
+      "Waghi": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TIV": {
+    "tiv_word-list_1962_01.html": {
+      "Tiv": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SLD": {
+    "sld_word-list_1962_01.html": {
+      "Sissala": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CIC": {
+    "cic_word-list_1996_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_03.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_05.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_06.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_07.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_08.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_09.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_10.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_11.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_12.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_13.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_14.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_15.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_16.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_17.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_18.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_19.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_20.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_21.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_22.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "cic_word-list_1996_23.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GBB": {
+    "gbb_word-list_1976_01.html": {
+      "Kaititj": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    }
+  },
+  "FIN": {
+    "fin_word-list_1966_01.html": {
+      "Note about this recording": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss"
+    },
+    "fin_word-list_1982_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "fin_word-list_1990_01.html": {
+      "Native Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English Gloss": "Gloss"
+    },
+    "fin_story_0000_01.html": {
+      "Note": "",
+      "English translation": "Gloss"
+    }
+  },
+  "LAD": {
+    "lad_word-list_1966_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "lad_word-list_1981_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "Gloss": "Gloss"
+    }
+  },
+  "AKP": {
+    "akp_word-list_1962_01.html": {
+      "Siwu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NSZ": {
+    "nsz_story_0000_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "SHS": {
+    "shs_word-list_1980_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NGI": {
+    "ngi_word-list_1970_01.html": {
+      "Contrast Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SLK": {
+    "slk_word-list_1990_01.html": {
+      "Slovak Transcription (broad)": "Form",
+      "Slovak Transcription (narrow)": "",
+      "Slovak Orthography": "",
+      "English": "Gloss"
+    }
+  },
+  "DAL": {
+    "dal_word-list_1991_01.html": {
+      "Dahalo": "Form",
+      "English": "Gloss",
+      "Swahili": ""
+    },
+    "dal_word-list_1991_02.html": {
+      "Dahalo": "Form",
+      "English": "Gloss",
+      "Swahili": ""
+    },
+    "dal_word-list_1991_03.html": {
+      "Dahalo": "Form",
+      "English": "Gloss",
+      "Swahili": "",
+      "Semantic Category": ""
+    },
+    "dal_word-list_1991_04.html": {
+      "Dahalo": "Form",
+      "English": "Gloss",
+      "Swahili": "",
+      "Semantic Category": ""
+    }
+  },
+  "BBA": {
+    "bba_word-list_1962_01.html": {
+      "Baatonum": "Form",
+      "English": "Gloss"
+    }
+  },
+  "APE": {
+    "ape_word-list_1984_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "PAV": {
+    "pav_word-list_1995_01.html": {
+      "Practical Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "pav_word-list_1995_02.html": {
+      "2": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NJM": {
+    "njm_word-list_1992_01.html": {
+      "Angami": "Form",
+      "English": "Gloss"
+    },
+    "njm_word-list_1992_02.html": {
+      "Angami": "Form",
+      "English": "Gloss"
+    },
+    "njm_word-list_1992_03.html": {
+      "Angami": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SER": {
+    "ser_word-list_1980_01.html": {
+      "Serrano": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MYA": {
+    "mya_word-list_1992_01.html": {
+      "Burmese": "Form",
+      "English": "Gloss"
+    },
+    "mya_word-list_0000_01.html": {
+      "Burmese": "Form",
+      "English": "Gloss"
+    },
+    "mya_word-list_1979_01.html": {
+      "Burmese": "Form",
+      "English": "Gloss"
+    },
+    "mya_word-list_1983_01.html": {
+      "Burmese": "Form",
+      "English": "Gloss"
+    },
+    "mya_word-list_1983_02.html": {
+      "Burmese": "Form",
+      "English": "Gloss"
+    },
+    "mya_word-list_1988_01.html": {
+      "Burmese (IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BEM": {
+    "bem_word-list_1986_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KEK": {
+    "kek_word-list_1978_01.html": {
+      "Sound Illustrated": "",
+      "Phonetic Transcription": "Form",
+      "Spanish Gloss": "",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    }
+  },
+  "HAK": {
+    "hak_word-list_1982_01.html": {
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Tone": "",
+      "Gloss": "Gloss"
+    }
+  },
+  "PDT": {
+    "pdt_word-list_0000_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MGD": {
+    "mgd_word-list_1977_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mgd_word-list_1977_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mgd_word-list_1977_03.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mgd_word-list_1977_04.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mgd_word-list_1977_05.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ZPK": {
+    "zpk_word-list_1987_01.html": {
+      "IPA Transcription": "Form",
+      "Consultant's Transcription": "",
+      "English Gloss": "Gloss"
+    }
+  },
+  "RON": {
+    "ron_word-list_1975_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "ron_word-list_1985_01.html": {
+      "Romanian Orthography": "",
+      "IPA Transcription": "",
+      "English Gloss": "Gloss"
+    },
+    "ron_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "ron_word-list_1989_02.html": {
+      "Frame": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "ron_word-list_1994_01.html": {
+      "Orthography": "",
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Gloss": "Gloss"
+    },
+    "ron_story_0000_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    },
+    "ron_story_0000_02.html": {
+      "Orthography": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "CAT": {
+    "cat_word-list_1981_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "cat_word-list_1981_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "cat_word-list_1982_01.html": {
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Orthography": "",
+      "English": "Gloss"
+    },
+    "cat_word-list_1983_01.html": {
+      "Native Orthography": "",
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Gloss": "Gloss",
+      "Sound Illustrated": ""
+    },
+    "cat_word-list_1987_01.html": {
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "Orthography": "",
+      "English": "Gloss"
+    }
+  },
+  "CHA": {
+    "cha_word-list_1983_01.html": {
+      "Chamorro": "Form",
+      "Chamorro Orthography": "",
+      "English": "Gloss"
+    }
+  },
+  "MKD": {
+    "mkd_word-list_1965_01.html": {
+      "Sound Illustrated": "",
+      "Phonemic Transcription": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "mkd_story_1965_01.html": {
+      "Phonetic Transcription": "",
+      "Phonemic Transcription": "Form",
+      "Literal Translation": "Gloss",
+      "Free Translation": ""
+    },
+    "mkd_story_1965_02.html": {
+      "Phonetic Transcription": "",
+      "Phonemic Transcription": "Form",
+      "Literal Translation": "Gloss",
+      "Free Translation": ""
+    }
+  },
+  "NGN": {
+    "ngn_word-list_1962_01.html": {
+      "Ngwo": "Form",
+      "English": "Gloss"
+    },
+    "ngn_word-list_1962_02.html": {
+      "Ngwo": "Form",
+      "English": "Gloss"
+    },
+    "ngn_word-list_1966_01.html": {
+      "Sound Illustrated": "",
+      "Ngwo": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NAQ": {
+    "naq_word-list_1979_01.html": {
+      "Orthography": "Form",
+      "English gloss": "Gloss"
+    },
+    "naq_word-list_1979_02.html": {
+      "Orthography": "Form",
+      "English gloss": "Gloss"
+    },
+    "naq_word-list_1979_03.html": {
+      "Orthography": "Form",
+      "English gloss": "Gloss"
+    },
+    "naq_word-list_0000_01.html": {
+      "English Gloss": "Gloss",
+      "Nama Orthography": "Form",
+      "Xhosa Orthography": "",
+      "Semantic Category": ""
+    }
+  },
+  "GIM": {
+    "gim_word-list_1976_01.html": {
+      "Gimi": "Form",
+      "English": "Gloss"
+    },
+    "gim_word-list_1976_02.html": {
+      "Gimi": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NEP": {
+    "nep_word-list_1981_01.html": {
+      "Nepali": "Form",
+      "English": "Gloss"
+    }
+  },
+  "FUH": {
+    "fuh_word-list_1962_01.html": {
+      "Fulfulde (Western Niger)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TUB": {
+    "tub_word-list_1976_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "tub_word-list_1976_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SOT": {
+    "sot_word-list_1972_01.html": {
+      "Orthography": "",
+      "Sotho, Southern": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AKA": {
+    "aka_word-list_1962_01.html": {
+      "Akan (Fante)": "Form",
+      "English": "Gloss"
+    },
+    "aka_word-list_1962_02.html": {
+      "Akan (Twi)": "Form",
+      "English": "Gloss"
+    },
+    "aka_word-list_1962_03.html": {
+      "Akan (Twi)": "Form",
+      "English": "Gloss"
+    },
+    "aka_word-list_1964_01.html": {
+      "Sound Illustrated": "",
+      "Akan (Fante)": "Form",
+      "English": "Gloss"
+    },
+    "aka_word-list_1971_01.html": {
+      "Akan (Twi) Orthography": "",
+      "Akan (Twi) IPA": "Form",
+      "English": "Gloss"
+    },
+    "aka_conversation_1980_01.html": {
+      "Speaker": "",
+      "Akan (Asante)": "Form",
+      "English": "Gloss"
+    },
+    "aka_story_0000_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "TEM": {
+    "tem_word-list_1962_01.html": {
+      "Themne": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BNH": {
+    "bnh_word-list_1995_01.html": {
+      "Banawa": "Form",
+      "English": "Gloss"
+    },
+    "bnh_word-list_1995_02.html": {
+      "Banawa": "Form",
+      "English": "Gloss"
+    },
+    "bnh_word-list_1995_03.html": {
+      "Banawa": "Form",
+      "English": "Gloss"
+    },
+    "bnh_word-list_1995_04.html": {
+      "Banawa": "Form",
+      "English": "Gloss"
+    }
+  },
+  "FLA": {
+    "fla_word-list_1992_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "EUS": {
+    "eus_word-list_1973_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "eus_word-list_1981_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "eus_word-list_1981_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "eus_word-list_1983_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "eus_song_1981_01.html": {
+      "Basque": "Form",
+      "English": "Gloss"
+    },
+    "eus_story_1982_01.html": {
+      "Orthography": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "SVA": {
+    "sva_word-list_1970_01.html": {
+      "Mkedruli Script": "",
+      "Transcription": "Form",
+      "Alt. Transcription": "",
+      "English Gloss": "Gloss",
+      "Russian Gloss": ""
+    }
+  },
+  "CES": {
+    "ces_word-list_1966_01.html": {
+      "Phonemic Representation": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ces_word-list_1966_02.html": {
+      "Phonemic Representation": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ces_word-list_1975_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ces_word-list_1976_01.html": {
+      "Phoneme Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MAR": {
+    "mar_word-list_1973_01.html": {
+      "Note": "",
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "HMB": {
+    "hmb_word-list_1962_01.html": {
+      "Songhay": "Form",
+      "English": "Gloss",
+      "French": ""
+    }
+  },
+  "FUB": {
+    "fub_word-list_1960_01.html": {
+      "Fulfulde (Adamawa)": "Form",
+      "English": "Gloss"
+    },
+    "fub_word-list_1962_01.html": {
+      "Fulfulde (Adamawa)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BKM": {
+    "bkm_word-list_1962_01.html": {
+      "Kom": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SWH": {
+    "swh_word-list_1973_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "swh_word-list_1973_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "swh_word-list_1973_03.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "swh_word-list_1973_04.html": {
+      "Swahili Words": "Form",
+      "English": "Gloss"
+    },
+    "swh_word-list_1973_05.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "swh_ear-training_1973_01.html": {
+      "Options": "",
+      "Word Spoken": "Form",
+      "English": "Gloss"
+    },
+    "swh_conversation_1980_01.html": {
+      "Speaker": "",
+      "Swahili": "Form",
+      "English": "Gloss"
+    },
+    "swh_conversation_1980_02.html": {
+      "Speaker": "",
+      "Swahili": "Form",
+      "English": "Gloss"
+    }
+  },
+  "HRV": {
+    "hrv_word-list_1976_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hrv_word-list_1976_02.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hrv_word-list_1983_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hrv_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "hrv_word-list_1988_01.html": {
+      "Place and Manner of Articulation": "",
+      "Croatian Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss",
+      "Sound Illustrated": ""
+    },
+    "hrv_story_0000_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    },
+    "hrv_story_0000_02.html": {
+      "Note": "",
+      "English Translation": "Gloss"
+    },
+    "hrv_story_0000_03.html": {
+      "Note": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "HAW": {
+    "haw_word-list_1973_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MFZ": {
+    "mfz_word-list_0000_01.html": {
+      "Notes": "",
+      "English": "Gloss"
+    }
+  },
+  "GWX": {
+    "gwx_word-list_1962_01.html": {
+      "Gua (Anum)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BSQ": {
+    "bsq_word-list_1984_01.html": {
+      "Sound Illustrated": ""
+    },
+    "bsq_word-list_1984_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "PES": {
+    "pes_word-list_1965_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1971_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1972_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1973_01.html": {
+      "IPA Transcription": "Form",
+      "En\u0262lish": "Gloss"
+    },
+    "pes_word-list_1973_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1973_03.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1974_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1979_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss",
+      "Transliteration": ""
+    },
+    "pes_word-list_1979_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1984_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1984_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_1987_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_2000_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_2000_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_word-list_2000_03.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pes_conversation_1980_01.html": {
+      "Transliteration": "Form",
+      "English": "Gloss"
+    },
+    "pes_conversation_1980_02.html": {
+      "Transliteration": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TZU": {
+    "tzu_word-list_1966_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "CHZ": {
+    "chz_word-list_1966_01.html": {
+      "Chinantec, Ozumac\u00edn": "Form",
+      "English": "Gloss"
+    },
+    "chz_word-list_1966_02.html": {
+      "Chinantec, Ozumac\u00edn": "Form",
+      "English": "Gloss"
+    },
+    "chz_word-list_1966_03.html": {
+      "Chinantec, Ozumac\u00edn": "Form",
+      "English": "Gloss",
+      "Spanish (minus frame)": ""
+    },
+    "chz_word-list_1966_04.html": {
+      "Chinantec, Ozumac\u00edn": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AFU": {
+    "afu_word-list_1962_01.html": {
+      "Efutu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "WOL": {
+    "wol_word-list_1981_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "wol_word-list_1993_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ISL": {
+    "isl_word-list_1977_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "isl_word-list_1982_01.html": {
+      "Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "Gloss": "Gloss"
+    },
+    "isl_word-list_1984_01.html": {
+      "Orthography": "",
+      "Phonetic Transcription": "Form",
+      "Gloss": "Gloss"
+    },
+    "isl_passage_1986_01.html": {
+      "Icelandic Orthography": "Form",
+      "English Translation": "Gloss"
+    },
+    "isl_word-list_1986_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "isl_word-list_1987_01.html": {
+      "Segment Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    },
+    "isl_word-list_1989_01.html": {
+      "Orthography": "",
+      "IPA": "Form",
+      "Gloss": "Gloss"
+    }
+  },
+  "COL": {
+    "col_word-list_0000_01.html": {
+      "Notes": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KWN": {
+    "kwn_word-list_1988_01.html": {
+      "Kwangali orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "blu": {
+    "blu_word-list_1993_01.htm": {
+      "Sound Illustrated": "",
+      "Phonemic Transcription": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "RYU": {
+    "ryu_word-list_1976_01.html": {
+      "Orthographic Version": "",
+      "Phonetic Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "AGX": {
+    "agx_word-list_0000_01.html": {
+      "Transcription": "Form",
+      "Alt. Transcription": "",
+      "English": "Gloss",
+      "Russian": ""
+    },
+    "agx_word-list_0000_02.html": {
+      "Aghul": "Form",
+      "English": "Gloss",
+      "Russian": ""
+    }
+  },
+  "KAT": {
+    "kat_word-list_2000_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "kat_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "kat_story_0000_01.html": {
+      "Native Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss",
+      "German": ""
+    }
+  },
+  "TEL": {
+    "tel_word-list_1973_01.html": {
+      "Transcription": "",
+      "English": "Gloss"
+    },
+    "tel_word-list_1981_01.html": {
+      "Telugu": "Form",
+      "English": "Gloss"
+    },
+    "tel_story_1970_01.html": {
+      "Transliteration": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "ILO": {
+    "ilo_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "POL": {
+    "pol_word-list_1973_01.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pol_word-list_1986_01.html": {
+      "2": "",
+      "3": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "pol_word-list_1986_02.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "pol_word-list_1990_01.html": {
+      "2": "",
+      "3": "",
+      "Narrow Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ORW": {
+    "orw_word-list_1995_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GUP": {
+    "gup_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "gup_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "gup_word-list_1990_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "gup_word-list_1990_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "PAN": {
+    "pan_word-list_1980_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KUA": {
+    "kua_word-list_1988_01.html": {
+      "Kwanyama": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BXM": {
+    "bxm_word-list_1991_01.html": {
+      "Buryat (Standard Mongolian Orthography)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AER": {
+    "aer_word-list_1989_01.html": {
+      "Sound Illustrated": "",
+      "Arrernte, Eastern Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CEB": {
+    "ceb_word-list_1987_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "XHO": {
+    "xho_word-list_1979_01.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "xho_word-list_1988_01.html": {
+      "Sound Illustrated": "",
+      "Xhosa": "Form",
+      "English": "Gloss"
+    },
+    "xho_word-list_0000_01.html": {
+      "English Gloss": "Gloss",
+      "Nama Orthography": "",
+      "Xhosa Orthography": "Form",
+      "Notes": ""
+    },
+    "xho_story_0000_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss"
+    }
+  },
+  "CPA": {
+    "cpa_word-list_1966_01.html": {
+      "Chinantec, Palantla": "Form",
+      "English": "Gloss"
+    },
+    "cpa_word-list_1966_02.html": {
+      "Chinantec, Palantla": "Form",
+      "English": "Gloss"
+    }
+  },
+  "YAK": {
+    "yak_word-list_1973_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TSO": {
+    "tso_word-list_1979_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    }
+  },
+  "IDU": {
+    "idu_word-list_1960_01.html": {
+      "Idoma": "Form",
+      "English": "Gloss"
+    },
+    "idu_word-list_1962_01.html": {
+      "Idoma": "Form",
+      "English": "Gloss"
+    },
+    "idu_word-list_1962_02.html": {
+      "Idoma": "Form",
+      "English": "Gloss"
+    },
+    "idu_word-list_1962_03.html": {
+      "Idoma": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MEN": {
+    "men_word-list_1962_01.html": {
+      "Mende": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GAZ": {
+    "gaz_word-list_1974_01.html": {
+      "Sound Illustrated": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NWE": {
+    "nwe_word-list_1962_01.html": {
+      "Ngwe": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ULK": {
+    "ulk_word-list_1976_01.html": {
+      "Meriam": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KUB": {
+    "kub_word-list_1962_01.html": {
+      "Kutep": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AFN": {
+    "afn_word-list_1994_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "afn_word-list_1994_02.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "afn_word-list_1994_03.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "afn_story_1994_01.html": {
+      "Orthography": "",
+      "Defaka": "Form",
+      "English": "Gloss",
+      "type": "text"
+    }
+  },
+  "KBD": {
+    "kbd_word-list_1970_01.html": {
+      "Kabardian (Beslenei)": "Form",
+      "English": "Gloss",
+      "French": ""
+    },
+    "kbd_story_1970_01.html": {
+      "Transcription": "Form",
+      "Romanization": "",
+      "French": "",
+      "English": "Gloss"
+    }
+  },
+  "POR": {
+    "por_word-list_1980_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "type": "text"
+    },
+    "por_word-list_1982_01.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1983_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1984_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1985_01.html": {
+      "Native Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "Gloss": "Gloss"
+    },
+    "por_word-list_1985_03.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1985_05.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1986_01.html": {
+      "2": "",
+      "3": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1986_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "por_word-list_1993_01.html": {
+      "Native Orthography": "",
+      "Transcription": "Form",
+      "Alt. Transcription": "",
+      "Gloss": "Gloss"
+    }
+  },
+  "ALE_WESTERN": {
+    "ale_western_word-list_1996_01.html": {
+      "Practical Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GUG": {
+    "gug_word-list_1994_01.html": {
+      "Orthography": "",
+      "Guarani, Paraguayan": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NMN": {
+    "nmn_word-list_1979_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1979_02.html": {
+      "Click Accompaniment": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1979_03.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1979_04.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1979_05.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1979_06.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_1983_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_word-list_0000_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nmn_story_1972_01.html": {
+      "Transcription": "Form",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    }
+  },
+  "SRP": {
+    "srp_word-list_1970_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "srp_word-list_1976_01.html": {
+      "Serbian Orthography": "",
+      "Croatian Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss",
+      "Semantic Category": ""
+    },
+    "srp_word-list_1985_01.html": {
+      "Romanized Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "srp_word-list_1990_01.html": {
+      "Transcription (broad)": "Form",
+      "Transcription (narrow)": "",
+      "English": "Gloss"
+    },
+    "srp_story_0000_01.html": {
+      "Orthography (Croatian)": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "KAN": {
+    "kan_word-list_1983_01.html": {
+      "Narrow Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "kan_story_1970_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "CYO": {
+    "cyo_word-list_1966_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "EFI": {
+    "efi_word-list_1960_01.html": {
+      "Efik": "Form",
+      "English": "Gloss"
+    },
+    "efi_word-list_1964_01.html": {
+      "Efik": "Form",
+      "English": "Gloss"
+    },
+    "efi_story_0000_01.html": {
+      "Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "EBR": {
+    "ebr_word-list_1962_01.html": {
+      "Cama": "Form",
+      "English": "Gloss",
+      "French": ""
+    }
+  },
+  "IKW": {
+    "ikw_word-list_1984_01.html": {
+      "Ikwere": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AMH": {
+    "amh_word-list_1966_01.html": {
+      "Phonemic Representation": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "amh_word-list_1966_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "amh_conversation_1967_01.html": {
+      "Phonemic Representation": "Form",
+      "English": "Gloss"
+    },
+    "amh_conversation_1980_01.html": {
+      "Speaker": "",
+      "Romanization": "Form",
+      "English": "Gloss"
+    },
+    "amh_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "amh_word-list_1987_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "amh_word-list_1987_02.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "amh_word-list_0000_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KTZ": {
+    "ktz_word-list_1970_01.html": {
+      "Section": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss",
+      "Semantic Category": ""
+    },
+    "ktz_word-list_1970_02.html": {
+      "Section": "",
+      "Phoneme Illustrated": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    },
+    "ktz_word-list_1970_03.html": {
+      "Section": "",
+      "Phoneme Illustrated": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    },
+    "ktz_word-list_1970_04.html": {
+      "Section": "",
+      "Phoneme Illustrated": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    },
+    "ktz_word-list_1970_05.html": {
+      "Section": "",
+      "Phoneme Illustrated": "",
+      "Orthography": "Form",
+      "English Gloss": "Gloss",
+      "Notes": ""
+    },
+    "ktz_word-list_1986_01.html": {
+      "Notes": "",
+      "English Gloss": "Gloss"
+    },
+    "ktz_word-list_1988_01.html": {
+      "Narrow Transcription of Click": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ktz_word-list_1988_02.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SUS": {
+    "sus_word-list_1963_01.html": {
+      "Susu": "Form",
+      "English": "Gloss"
+    },
+    "sus_word-list_1979_01.html": {
+      "Sound Illustrated": "",
+      "Sound Illustrated Intervocalically": "",
+      "Soso": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KOR_CHEJU": {
+    "kor_cheju_word-list_1998_01.html": {
+      "2": "",
+      "Cheju IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KNN": {
+    "knn_word-list_1979_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "THA": {
+    "tha_word-list_1971_01.html": {
+      "Sound Illustrated": "",
+      "Thai Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tha_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "Thai Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tha_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "tha_word-list_1984_01.html": {
+      "Native Orthography": "",
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "Phonemic Transcription": "",
+      "Gloss": "Gloss",
+      "Notes": ""
+    },
+    "tha_word-list_1985_01.html": {
+      "Phonemic Representation": "",
+      "Thai Orthography": "",
+      "Phonetic Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "tha_word-list_1994_01.html": {
+      "Native Orthography": "",
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "Phonemic Transcription": "",
+      "Gloss": "Gloss"
+    }
+  },
+  "RUN": {
+    "run_word-list_1972_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "run_word-list_1976_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "VLS": {
+    "vls_word-list_1983_01.html": {
+      "Vlaams Orthography": "",
+      "Phonetic Transcription": "Form",
+      "Gloss": "Gloss"
+    }
+  },
+  "SEE": {
+    "see_word-list_1987_01.html": {
+      "Seneca": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TSU": {
+    "tsu_word-list_1993_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tsu_word-list_1993_02.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tsu_word-list_1993_03.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "tsu_word-list_1993_04.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TSW": {
+    "tsw_word-list_1962_01.html": {
+      "Kambari (Tsishingini)": "Form",
+      "English": "Gloss"
+    },
+    "tsw_word-list_1962_02.html": {
+      "Kambari (Tsishingini)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "SOM": {
+    "som_word-list_1980_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "som_word-list_1982_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "som_conversation_1980_01.html": {
+      "Speaker": "",
+      "Somali Orthography": "Form",
+      "English Translation": "Gloss"
+    },
+    "som_conversation_1980_02.html": {
+      "Speaker": "",
+      "Somali Orthography": "Form",
+      "English Translation": "Gloss"
+    },
+    "som_conversation_1981_01.html": {
+      "Speaker": "",
+      "Somali Orthography": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "KHM": {
+    "khm_word-list_1973_01.html": {
+      "Khmer": "Form",
+      "English": "Gloss"
+    },
+    "khm_word-list_1985_01.html": {
+      "Orthography": "",
+      "Khmer": "Form",
+      "English": "Gloss"
+    },
+    "khm_word-list_1985_02.html": {
+      "Khmer": "Form",
+      "English": "Gloss"
+    }
+  },
+  "DAN": {
+    "dan_word-list_1972_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "dan_word-list_1986_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AFR": {
+    "afr_word-list_1973_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "afr_word-list_1973_02.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ABQ": {
+    "abq_word-list_1970_01.html": {
+      "Abaza": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AZB": {
+    "azb_word-list_1985_01.html": {
+      "Transcription": "Form",
+      "Orthography": "",
+      "English": "Gloss"
+    }
+  },
+  "HYE": {
+    "hye_word-list_1972_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_word-list_1973_01.html": {
+      "Orthography": "Form"
+    },
+    "hye_word-list_1983_01.html": {
+      "Orthography": "Form"
+    },
+    "hye_word-list_1984_01.html": {
+      "Native Orthography": "",
+      "IPA Transcription": "Form",
+      "Phonemic Transcription": "",
+      "English": "Gloss",
+      "Sound Illustrated": ""
+    },
+    "hye_word-list_1984_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_word-list_1988_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_word-list_1988_02.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_word-list_1990_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_word-list_1991_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "hye_conversation_1980_01.html": {
+      "Speaker": "",
+      "Romanization": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GAA": {
+    "gaa_word-list_1962_01.html": {
+      "Ga\u0303": "Form",
+      "English": "Gloss"
+    },
+    "gaa_conversation_1980_01.html": {
+      "Speaker": "",
+      "Ga\u0303": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BEN": {
+    "ben_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ben_word-list_1982_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ben_word-list_1984_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ben_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "GLE": {
+    "gle_word-list_1975_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "gle_word-list_1982_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "gle_word-list_1985_01.html": {
+      "Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "gle_word-list_1985_02.html": {
+      "Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "gle_story_0000_01.html": {
+      "Orthography": "",
+      "IPA Transcription": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "NOB": {
+    "nob_story_01.html": {
+      "Native Orthography": "",
+      "Formal Transcription": "Form",
+      "Colloquial Transcription": "",
+      "English Translation": "Gloss"
+    },
+    "nob_word-list_1971_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nob_word-list_1983_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nob_word-list_1984_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nob_word-list_1989_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "nob_word-list_1991_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "YDD": {
+    "ydd_word-list_1972_01.html": {
+      "Odessa Dialect Transcription": "Form",
+      "Kobrin Dialect Transcription": "",
+      "English": "Gloss"
+    },
+    "ydd_word-list_1979_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ydd_word-list_1985_01.html": {
+      "Transcription (First time)": "Form",
+      "Transcription (Second time)": "",
+      "English Gloss": "Gloss"
+    }
+  },
+  "XMF": {
+    "xmf_word-list_1970_01.html": {
+      "Mingrelian": "Form",
+      "English": "Gloss"
+    },
+    "xmf_story_1970_01.html": {
+      "Transcription": "Form",
+      "Romanization": "",
+      "Russian Gloss": "",
+      "English Gloss": "Gloss"
+    }
+  },
+  "IJC": {
+    "ijc_word-list_1960_01.html": {
+      "Ijaw": "Form",
+      "English": "Gloss"
+    },
+    "ijc_word-list_1984_01.html": {
+      "Ijo": "Form",
+      "English": "Gloss"
+    },
+    "ijc_word-list_1984_02.html": {
+      "Sound Illustrated": "",
+      "Izon Orthography": "",
+      "Izon (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ijc_word-list_1984_03.html": {
+      "Sound Illustrated": "",
+      "Izon Orthography": "",
+      "Izon (IPA)": "Form",
+      "English": "Gloss"
+    },
+    "ijc_word-list_1984_04.html": {
+      "Sound Illustrated": "",
+      "Izon Orthography": "",
+      "Izon (IPA)": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MNW": {
+    "mnw_word-list_1981_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "mnw_word-list_1986_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "NLD": {
+    "nld_word-list_1972_01.html": {
+      "Dutch Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nld_word-list_1972_02.html": {
+      "Dutch Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nld_word-list_1972_03.html": {
+      "Dutch Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "nld_conversation_1981_01.html": {
+      "Speaker": "",
+      "Dutch": "Form",
+      "English": "Gloss"
+    },
+    "nld_word-list_1982_01.html": {
+      "Dutch Orthography": "",
+      "Narrow Transcriptin": "Form",
+      "Gloss": "Gloss"
+    },
+    "nld_word-list_1984_01.html": {
+      "Dutch Orthography": "",
+      "Phonetic Transcription": "Form",
+      "Gloss": "Gloss",
+      "Note\u02d0": ""
+    }
+  },
+  "NHX": {
+    "nhx_word-list_1966_01.html": {
+      "Nahuatl, Isthmus-Mecayapan": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ADY": {
+    "ady_word-list_1977_01.html": {
+      "Orthography": "",
+      "Phonemic Transcription": "Form",
+      "Alt. Transcription": "",
+      "English": "Gloss",
+      "Russian": ""
+    }
+  },
+  "FUF": {
+    "fuf_word-list_1979_01.html": {
+      "Native Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss",
+      "French": ""
+    }
+  },
+  "ARS": {
+    "ars_word-list_1981_01.html": {
+      "Arabic, Najdi": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TIR": {
+    "tir_word-list_1988_01.html": {
+      "Tigrigna": "Form",
+      "English": "Gloss"
+    }
+  },
+  "LUS": {
+    "lus_word-list_1992_01.html": {
+      "Mizo": "Form",
+      "English": "Gloss"
+    },
+    "lus_word-list_1992_02.html": {
+      "Mizo": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ZUL": {
+    "zul_word-list_1959_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "zul_word-list_1964_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "zul_word-list_1980_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "zul_word-list_1982_01.html": {
+      "Orthography": "",
+      "Broad Transcription": "Form",
+      "Narrow Transcription": "",
+      "English": "Gloss"
+    },
+    "zul_word-list_1985_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "zul_word-list_1988_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "zul_word-list_0000_01.html": {
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "zul_conversation_1980_01.html": {
+      "Speaker": "",
+      "Zulu": "Form",
+      "English": "Gloss"
+    },
+    "zul_conversation_1980_02.html": {
+      "Speaker": "",
+      "Zulu": "Form",
+      "English": "Gloss"
+    }
+  },
+  "Gikuyu": {
+    "kik_conversation_1980_01.html": {
+      "Romanization": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "III": {
+    "iii_word-list_1983_01.html": {
+      "Yi": "Form",
+      "English": "Gloss"
+    },
+    "iii_word-list_1983_02.html": {
+      "Yi": "Form"
+    }
+  },
+  "BOM": {
+    "bom_word-list_1961_01.html": {
+      "Berom": "Form",
+      "English": "Gloss"
+    },
+    "bom_word-list_0000_01.html": {
+      "Transcription": "Form"
+    }
+  },
+  "LED": {
+    "led_word-list_0000_01.html": {
+      "Transcription": "Form",
+      "French": "",
+      "English": "Gloss",
+      "Notes": ""
+    },
+    "led_word-list_0000_02.html": {
+      "Transcription": "Form",
+      "French": "",
+      "English": "Gloss"
+    }
+  },
+  "CJI": {
+    "cji_word-list_0000_01.html": {
+      "Transcription": "Form",
+      "Alt. Form": "",
+      "English": "Gloss",
+      "Russian": ""
+    }
+  },
+  "ASM": {
+    "asm_word-list_1981_01.html": {
+      "Assamese": "Form",
+      "English": "Gloss"
+    },
+    "asm_word-list_1990_01.html": {
+      "Assamese": "Form",
+      "English": "Gloss"
+    }
+  },
+  "TKQ": {
+    "tkq_word-list_1994_01.html": {
+      "Tee Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "MAL": {
+    "mal_word-list_1973_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "mal_sounds_1979_01.html": {
+      "Sound Illustrated": ""
+    }
+  },
+  "MAJ": {
+    "maj_word-list_1993_01.html": {
+      "Practical Orthography": "",
+      "IPA": "Form",
+      "English": "Gloss",
+      "Spanish": ""
+    },
+    "maj_word-list_1984_01.html": {
+      "IPA": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AQC": {
+    "aqc_word-list_0000_01.html": {
+      "Archi": "Form",
+      "English": "Gloss",
+      "Russian": ""
+    }
+  },
+  "CPN": {
+    "cpn_word-list_1962_01.html": {
+      "Cherepon": "Form",
+      "English": "Gloss"
+    }
+  },
+  "KYE": {
+    "kye_word-list_1962_01.html": {
+      "Krache": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CMN": {
+    "cmn_word-list_1966_01.html": {
+      "Phoneme Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1980_01.html": {
+      "Chinese, Mandarin": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1981_01.html": {
+      "Sound Illustrated": "",
+      "Pi\u0304nyi\u0304n (Romanization)": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1983_01.html": {
+      "Alternate Transcription": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1986_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1987_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_1988_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_2000_01.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_2000_02.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_word-list_2000_03.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "cmn_story_1966_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BCL": {
+    "bcl_word-list_1966_01.html": {
+      "Transcription": "Form",
+      "English Gloss (within frame sentence)": "Gloss"
+    }
+  },
+  "MWF": {
+    "mwf_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwf_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwf_word-list_1990_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwf_word-list_1990_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwf_word-list_1990_05.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "mwf_word-list_1990_06.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "YUE": {
+    "yue_word-list_1971_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1973_01.html": {
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1974_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1975_01.html": {
+      "Phonemic Representation": "",
+      "IPA": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1980_01.html": {
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1982_01.html": {
+      "Phoneme": "",
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1983_01.html": {
+      "Phoneme Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1983_02.html": {
+      "Sound Illustrated": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "yue_word-list_1988_01.html": {
+      "Phoneme Illustrated": "",
+      "Transcription": "Form",
+      "Tone": "",
+      "Gloss": "Gloss"
+    }
+  },
+  "SRR": {
+    "srr_word-list_1962_01.html": {
+      "Serer-Sine": "Form",
+      "English": "Gloss"
+    }
+  },
+  "AEB": {
+    "aeb_word-list_1975_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "KNO": {
+    "kno_word-list_1963_01.html": {
+      "Kono": "Form",
+      "English": "Gloss"
+    }
+  },
+  "BVR": {
+    "bvr_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "bvr_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "bvr_word-list_1990_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "bvr_word-list_1990_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "bvr_word-list_1990_05.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "bvr_word-list_1990_06.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  },
+  "RUT": {
+    "rut_word-list_0000_01.html": {
+      "Rutul": "Form",
+      "English": "Gloss",
+      "Russian": ""
+    }
+  },
+  "KAC": {
+    "kac_word-list_1984_01.html": {
+      "Transcription with Tones": "Form",
+      "English": "Gloss"
+    }
+  },
+  "ABK": {
+    "abk_word-list_1970_01.html": {
+      "Abkhaz transcription": "Form",
+      "English": "Gloss"
+    },
+    "abk_word-list_1970_02.html": {
+      "Transcription": "Form",
+      "Alt. Transcription": "",
+      "Gloss": "Gloss"
+    },
+    "abk_word-list_1970_03.html": {
+      "Orthography": "",
+      "Transcription": "",
+      "Phonemic Transcription": "Form",
+      "English": "Gloss",
+      "Russian": "",
+      "Dialect": ""
+    },
+    "abk_story_1970_01.html": {
+      "Abkhaz Orthography": "",
+      "Transcription": "Form",
+      "Romanization": "",
+      "Russian Gloss": "",
+      "English Gloss": "Gloss"
+    },
+    "abk_word-list_1977_01.html": {
+      "Mkhedruli Orthography": "",
+      "Transcription": "Form",
+      "Alt. Transcription": "",
+      "English": "Gloss",
+      "Russian": "",
+      "Georgian": ""
+    }
+  },
+  "SBC": {
+    "sbc_word-list_1976_01.html": {
+      "Kele": "Form",
+      "English": "Gloss"
+    }
+  },
+  "APC": {
+    "apc_word-list_1965_01.html": {
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "apc_word-list_1974_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "apc_word-list_1983_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    },
+    "apc_word-list_1986_01.html": {
+      "Arabic (Syrian)": "Form",
+      "English Gloss": "Gloss"
+    },
+    "apc_word-list_1992_01.html": {
+      "Sound Illustrated": "",
+      "IPA Transcription": "Form",
+      "English Gloss": "Gloss"
+    }
+  },
+  "TPI": {
+    "tpi_story_1976_01.html": {
+      "Tok Pisin": "Form",
+      "English": "Gloss"
+    }
+  },
+  "CKB": {
+    "ckb_story_1982_01.html": {
+      "Notes": "",
+      "English Translation": "Gloss",
+      "type": "earthwindandsun"
+    }
+  },
+  "BAM": {
+    "bam_word-list_1973_01.html": {
+      "Bambara Orthography": "",
+      "Bambara (IPA)": "",
+      "English": "Gloss"
+    },
+    "bam_word-list_1982_01.html": {
+      "Bambara": "Form"
+    }
+  },
+  "CHE": {
+    "che_story_1977_01.html": {
+      "Orthography": "Form",
+      "Gloss": "Gloss",
+      "Russian": ""
+    }
+  },
+  "OKR": {
+    "okr_story_1962_01.html": {
+      "Orthography": "Form",
+      "English Translation": "Gloss"
+    }
+  },
+  "TIW": {
+    "tiw_word-list_1976_01.html": {
+      "Tiwi Transcription": "Form",
+      "Tiwi Orthography": "",
+      "Alternate Transcription": "",
+      "English": "Gloss"
+    }
+  },
+  "ELL": {
+    "ell_word-list_0000_01.html": {
+      "Greek Orthography": "Form",
+      "First Speaker": "",
+      "Second Speaker": "",
+      "Gloss": "Gloss"
+    },
+    "ell_word-list_1980_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ell_word-list_1985_01.html": {
+      "Greek Orthography": "",
+      "Phonetic Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ell_word-list_1986_01.html": {
+      "Orthography": "",
+      "Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ell_word-list_1987_01.html": {
+      "Greek Orthography": "",
+      "Phonetic Transcription": "Form",
+      "English": "Gloss"
+    },
+    "ell_word-list_1987_02.html": {
+      "Phonemic Transcription": "Form",
+      "Phonetic Transcription": "",
+      "English": "Gloss"
+    },
+    "ell_word-list_1988_01.html": {
+      "Greek Orthography": "",
+      "Phonetic Transcription": "Form",
+      "English": "Gloss"
+    }
+  },
+  "YIJ": {
+    "yij_word-list_1990_01.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "yij_word-list_1990_02.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "yij_word-list_1990_03.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "yij_word-list_1990_04.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    },
+    "yij_word-list_1990_05.html": {
+      "Sound Illustrated": "",
+      "Orthography": "Form",
+      "English": "Gloss"
+    }
+  }
+}
