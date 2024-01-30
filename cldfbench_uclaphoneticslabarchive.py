@@ -355,7 +355,7 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
                                 ID=fname.replace('.', '_'),
                                 Name=fname,
                                 Description=desc,
-                                Media_Type=mimetypes.guess_type('a.' + suffix),
+                                Media_Type=mimetypes.guess_type('a.' + suffix)[0],
                                 Download_URL=fnames[dname, fname][0],
                                 size=fnames[dname, fname][1],
                             ))
