@@ -1,0 +1,313 @@
+ID,Name,Macroarea,Latitude,Longitude,Glottocode,ISO639P3code,Family_Name
+EMA,Emai-luleha-Ora,Africa,7.09089,5.84494,emai1241,ema,Atlantic-Congo
+ENG,English,Eurasia,53.0,-1.0,stan1293,eng,Indo-European
+ISO,Isoko,Africa,5.52889,6.24682,isok1239,iso,Atlantic-Congo
+NDO,Ndonga,Africa,-17.22,17.35,ndon1254,ndo,Atlantic-Congo
+ARZ,"Arabic, Egyptian",Africa,31.0,31.0,egyp1253,arz,Afro-Asiatic
+ALE_EASTERN,Aleut (Eastern dialect),North America,52.1228,-174.29,east2533,,Eskimo-Aleut
+HAU,Hausa,Africa,11.1513,8.7804,haus1257,hau,Afro-Asiatic
+KLU,Klao,Africa,5.05,-8.85,klao1243,klu,Kru
+WBM,Wa,Eurasia,23.1024,99.108,nucl1290,wbm,Austroasiatic
+BWR,Bura,Africa,10.4822,12.3007,bura1292,bwr,Afro-Asiatic
+MRT,Marghi (Central),Africa,10.93854,13.0521,marg1265,mrt,Afro-Asiatic
+SND,Sindhi,Eurasia,26.0,69.0,sind1272,snd,Indo-European
+CRO,Crow,North America,45.368,-107.874,crow1244,cro,Siouan
+NAV,Navajo,North America,36.33,-109.38,nava1243,nav,Athabaskan-Eyak-Tlingit
+URH,Urhobo,Africa,5.31155,5.86148,urho1239,urh,Atlantic-Congo
+OGO,Khana,Africa,4.70908,7.44363,khan1278,ogo,Atlantic-Congo
+HNI,Hani,Eurasia,22.67753,102.851673333,hani1248,hni,Sino-Tibetan
+HUC,ǂHua,Africa,-23.93447,24.69828,hoaa1235,huc,Kxa
+HEB,Hebrew,Eurasia,31.1056,35.0179,hebr1245,heb,Afro-Asiatic
+GAX,Oromo,Africa,1.05676,37.882,bora1271,gax,Afro-Asiatic
+MPZ,Mpi,Eurasia,18.1717,100.21,mpii1239,mpz,Sino-Tibetan
+TON,Tongan,Papunesia,-21.17,-175.25,tong1325,ton,Austronesian
+FFM,Fulfulde (Maasina),Africa,11.1324,-3.64763,maas1239,ffm,Atlantic-Congo
+QUH,"Quechua, South Bolivian",South America,-20.9201,-66.3331,sout2991,quh,Quechuan
+TGL,Tagalog,Papunesia,14.06,121.747,taga1270,tgl,Austronesian
+NZI,Nzema,Africa,5.1785,-2.81123,nzim1238,nzi,Atlantic-Congo
+JAV,Javanese,Papunesia,-7.001,109.287,java1254,jav,Austronesian
+SHK,Shilluk,Africa,9.85472,31.7926,shil1265,shk,Nilotic
+MLT,Maltese,Eurasia,35.8884,14.4508,malt1254,mlt,Afro-Asiatic
+IBO,Igbo,Africa,4.62705,7.23441,nucl1417,ibo,Atlantic-Congo
+DYO,Jola-Fonyi,Africa,12.75752,-15.7354766667,jola1263,dyo,Atlantic-Congo
+GUJ,Gujarati,Eurasia,22.687,71.0962,guja1252,guj,Indo-European
+SAD,Sandawe,Africa,-5.26918,35.4808,sand1273,sad,Isolate
+LUG,Ganda,Africa,0.66884,32.15153,gand1255,lug,Atlantic-Congo
+MED,Melpa,Papunesia,-5.62644,144.34,melp1238,med,Nuclear Trans New Guinea
+YOR,Yoruba,Africa,7.15345,3.67225,yoru1245,yor,Atlantic-Congo
+ITS,Isekiri,Africa,5.81898,5.5862,isek1239,its,Atlantic-Congo
+HGM,Haiǀǀom,Africa,-19.7637,17.0299,haio1238,hgm,Khoe-Kwadi
+PCM,"Pidgin, Nigerian",Africa,9.65873,4.21068,nige1257,pcm,Indo-European
+WAR,Waray-Waray,Papunesia,11.4911,125.012,wara1300,war,Austronesian
+YEY,Yeyi,Africa,-18.9178,23.6088,yeyi1239,yey,Atlantic-Congo
+OZM,Koonzime,Africa,3.25933,13.54152,koon1245,ozm,Atlantic-Congo
+VEN,Venda,Africa,-22.188,29.9523,vend1245,ven,Atlantic-Congo
+PBU,Pashto,Eurasia,34.0,71.33,nort2646,pbu,Indo-European
+DEG,Degema,Africa,4.73373,6.80991,dege1246,deg,Atlantic-Congo
+BHK,"Bicolano, Albay",Papunesia,13.1989,123.49,alba1269,bhk,Austronesian
+HUN,Hungarian,Eurasia,46.9068585714,19.6555271429,hung1274,hun,Uralic
+PAG,Pangasinan,Papunesia,15.9377,120.365,pang1290,pag,Austronesian
+TUR,Turkish,Eurasia,39.8667,32.8667,nucl1301,tur,Turkic
+XTD,"Mixtec, Diuxi-Tilantongo",North America,17.3596,-97.3861,diux1235,xtd,Otomanguean
+DEU,German,Eurasia,48.649,12.4676,stan1295,deu,Indo-European
+SLV,Slovenian,Eurasia,46.2543,14.7766,slov1268,slv,Indo-European
+JAO,Yanyuwa,Australia,-15.7621,136.055,yany1243,jao,Pama-Nyungan
+BRV,Bruu,Eurasia,16.4906,104.754,west2397,brv,Austroasiatic
+LAV,Latvian,Eurasia,56.826108,24.309118,latv1249,lav,Indo-European
+NEW,Newari,Eurasia,27.67,85.326,newa1246,new,Sino-Tibetan
+MWP,Kala Lagaw Ya (Western Torres Strait),Australia,-10.6748,142.196,kala1377,mwp,Pama-Nyungan
+NNA,Nyangumarta,Australia,-20.6271,121.391,nyan1301,nna,Pama-Nyungan
+DAG,Dagbani,Africa,9.64745,-0.43227,dagb1246,dag,Atlantic-Congo
+LGQ,Logba,Africa,6.92838,0.43068,logb1245,lgq,Atlantic-Congo
+UBY,Ubykh,Eurasia,43.67,39.67,ubyk1235,uby,Abkhaz-Adyge
+MFA,Malay (Pattani),Eurasia,6.38148,101.41,patt1249,mfa,Austronesian
+AVN,Avatime,Africa,6.8688,0.41314,avat1244,avn,Atlantic-Congo
+KEA,"Crioulo, Kabuverdianu",Africa,15.0586,-23.6148,kabu1256,kea,Indo-European
+BUL,Bulgarian,Eurasia,43.3646,25.047,bulg1262,bul,Indo-European
+PAM,Kapampangan,Papunesia,14.9603,120.502,pamp1243,pam,Austronesian
+MYP,Piraha,South America,-6.77713,-61.8167,pira1253,myp,Isolate
+LKT,Lakota,North America,46.3699,-103.95,lako1247,lkt,Siouan
+FRA,French,Eurasia,48.0,2.0,stan1290,fra,Indo-European
+IBB,Ibibio,Africa,5.15279,7.86688,ibib1240,ibb,Atlantic-Congo
+NOD,Thai (Northern),Eurasia,18.857495,100.20739,nort2740,nod,Tai-Kadai
+MWW,Hmong Daw,Eurasia,21.5461,103.164,hmon1333,mww,Hmong-Mien
+VIE,Vietnamese,Eurasia,20.681188,105.774071,viet1252,vie,Austroasiatic
+MNR,Mono (Numic) Eastern,North America,37.1935,-119.347,mono1275,mnr,Uto-Aztecan
+ITL,Itelmen,Eurasia,56.046173,156.30704,itel1242,itl,Chukotko-Kamchatkan
+HTS,Hadza,Africa,-3.83115,35.0458,hadz1240,hts,Isolate
+MHW,Mbukushu,Africa,-17.6827,22.5026,mbuk1240,mhw,Atlantic-Congo
+IJN,Kalabari,Africa,4.53194,6.69539,kala1381,ijn,Ijoid
+NKO,Nkonya,Africa,7.20316,0.3209,nkon1248,nko,Atlantic-Congo
+TAH,Tahitian,Papunesia,-17.6485,-149.45,tahi1242,tah,Austronesian
+GNN,Gumatj,Australia,-12.25254,136.83042,guma1253,gnn,Pama-Nyungan
+KQS,Kissi,Africa,8.7283,-10.4063,nort2765,kqs,Atlantic-Congo
+BLC,Bella Coola,North America,52.3448,-126.689,bell1243,blc,Salishan
+GSW,Schwyzerdütsch,Eurasia,47.0516,8.46419,swis1247,gsw,Indo-European
+COG,Chong,Eurasia,12.5218,102.514,chon1284,cog,Austroasiatic
+GLA,"Gaelic, Scottish",Eurasia,56.7574,-5.24366,scot1245,gla,Indo-European
+KMU,Kanite,Papunesia,-6.38841,145.556,kani1286,kmu,Nuclear Trans New Guinea
+CBV,Cacua,South America,0.88778,-69.5659,cacu1241,cbv,Kakua-Nukak
+PJT,Pitjantjatjara,Australia,-26.9704,131.357,pitj1243,pjt,Pama-Nyungan
+MZQ,Mori Atas,Papunesia,-2.2555,121.035,mori1269,mzq,Austronesian
+LIA,Limba (West-Central),Africa,9.52392,-12.3138,west2450,lia,Atlantic-Congo
+LUO,Luo,Africa,-0.93296,34.4896,luok1236,luo,Nilotic
+PRS,"Farsi, Eastern",Eurasia,31.0405,67.3593,dari1249,prs,Indo-European
+MAK,Makassarese,Papunesia,-5.65551,119.838,maka1311,mak,Austronesian
+SIN,Sinhalese,Eurasia,8.0,81.0,sinh1246,sin,Indo-European
+OBU,Obulom,Africa,4.72908,7.11671,obul1239,obu,Atlantic-Congo
+CYM,Welsh,Eurasia,52.0,-4.0,wels1247,cym,Indo-European
+NNO,"Norwegian, Nynorsk",Eurasia,59.92,10.71,norw1262,nno,Indo-European
+BOD,Tibetan,Eurasia,28.3681,90.1872,tibe1272,bod,Sino-Tibetan
+NAN,"Chinese, Min Nan",Eurasia,24.5,118.17,minn1241,nan,Sino-Tibetan
+BIN,Bini,Africa,6.40701,5.70426,bini1246,bin,Atlantic-Congo
+LIP,Sekpele,Africa,7.16751,0.5886,sekp1241,lip,Atlantic-Congo
+APW,Apache (Western),North America,33.8574,-110.123,west2615,apw,Athabaskan-Eyak-Tlingit
+HIN,Hindi,Eurasia,25.0,77.0,hind1269,hin,Indo-European
+WIM,Wikmungkan,Australia,-13.98051,141.81611,wikm1247,wim,Pama-Nyungan
+COM,Comanche,North America,34.0,-101.0,coma1245,com,Uto-Aztecan
+KAA,Karakalpak,Eurasia,39.98005,63.32233,kara1467,kaa,Turkic
+KKY,Guguyimidjir,Australia,-14.9424,144.831,gugu1255,kky,Pama-Nyungan
+TAM,Tamil,Eurasia,10.520219,78.825989,tami1289,tam,Dravidian
+AJP,"Arabic, South Levantine Spoken",Eurasia,31.5601,38.0837,sout3123,ajp,Afro-Asiatic
+IRK,Iraqw,Africa,-4.19948,35.2939,iraq1241,irk,Afro-Asiatic
+WUU,"Chinese, Wu",Eurasia,29.8621,119.682,wuch1236,wuu,Sino-Tibetan
+VAI,Vai,Africa,7.05085,-11.3262,vaii1241,vai,Mande
+WBP,Warlpiri,Australia,-20.1008,131.05,warl1254,wbp,Pama-Nyungan
+TSN,Setswana,Africa,-24.368,24.7587,tswa1253,tsn,Atlantic-Congo
+BFQ,Badaga,Eurasia,11.3094,76.5974,bada1257,bfq,Dravidian
+EST,Estonian,Eurasia,58.55,25.82,esto1258,ekk,Uralic
+KOR,Korean,Eurasia,37.54,126.98,kore1280,kor,Koreanic
+SWE,Swedish,Eurasia,59.800634,17.389526,swed1254,swe,Indo-European
+LAR,Larteh,Africa,5.9367,-0.07822,lart1238,lar,Atlantic-Congo
+IGB,Ebira,Africa,8.15516,7.06183,ebir1243,igb,Atlantic-Congo
+KRI,Krio,Africa,10.8811,-14.3204,krio1253,kri,Indo-European
+ACE,Aceh,Papunesia,3.90757,96.6032,achi1257,ace,Austronesian
+GDJ,Gurdjar,Australia,-17.1653,141.145,gurd1238,gdj,Pama-Nyungan
+SNA,Shona,Africa,-17.20849,29.75725,shon1251,sna,Atlantic-Congo
+URD,Urdu,Eurasia,25.0,67.0,urdu1245,urd,Indo-European
+EWE,Ewe,Africa,6.46061,0.814975,ewee1241,ewe,Atlantic-Congo
+LIT,Lithuanian,Eurasia,55.1429,23.9601,lith1251,lit,Indo-European
+BFD,Bafut,Africa,6.14153,10.1194,bafu1246,bfd,Atlantic-Congo
+NGJ,Ngie,Africa,5.93852,9.79389,ngie1242,ngj,Atlantic-Congo
+FUC,Pulaar,Africa,13.8694,-13.4482,pula1263,fuc,Atlantic-Congo
+KAM,Kamba,Africa,-1.60827,37.9532,kamb1297,kam,Atlantic-Congo
+HIL,Hiligaynon,Papunesia,10.4018,122.974,hili1240,hil,Austronesian
+TTV,Titan,Papunesia,-2.18168,146.888,tita1241,ttv,Austronesian
+TCX,Toda,Eurasia,11.4184,77.0168,toda1252,tcx,Dravidian
+ACM,"Arabic, Mesopotamian Spoken",Eurasia,33.8178,43.1095,meso1252,acm,Afro-Asiatic
+PRV,Provençal,Eurasia,44.1415,6.82979,occi1239,oci,Indo-European
+KZI,Kelabit,Papunesia,3.31783,115.428,kela1258,kzi,Austronesian
+FUV,Fulfulde (Nigerian),Africa,10.9972,11.1188,nige1253,fuv,Atlantic-Congo
+DIU,Diriku,Africa,-18.1681,20.6678,diri1252,diu,Atlantic-Congo
+NAM,Nangikurrunggurr,Australia,-14.268,131.237,nang1259,nam,Southern Daly
+MIZ,"Mixtec, Coatzospan",North America,18.048748,-96.763633,coat1241,miz,Otomanguean
+POW,"Popoloca, San Felipe Otlaltepec",North America,18.3594,-97.7432,sanf1264,pow,Otomanguean
+SAZ,Saurashtra,Eurasia,9.99172,77.9427,saur1248,saz,Indo-European
+NUY,Nunggubuyu,Australia,-14.2623,135.753,nung1290,nuy,Gunwinyguan
+UKR,Ukrainian,Eurasia,49.796,29.945,ukra1253,ukr,Indo-European
+DHG,Danghu (Wangurri),Australia,-11.9493,135.752,dhan1270,dhg,Pama-Nyungan
+TZM,Berber (Tamazight),Africa,32.7415,-2.40872,cent2194,tzm,Afro-Asiatic
+WGI,Waghi,Papunesia,-6.11629,144.665,nucl1620,wgi,Nuclear Trans New Guinea
+TIV,Tiv,Africa,6.88039,9.26287,tivv1240,tiv,Atlantic-Congo
+SLD,Sissala,Africa,11.0916,-2.38217,siss1242,sld,Atlantic-Congo
+CIC,Chickasaw,North America,34.0,-88.0,chic1270,cic,Muskogean
+GBB,Kaititj,Australia,-21.5844,133.602,kayt1238,gbb,Pama-Nyungan
+FIN,Finnish,Eurasia,64.7628,25.5577,finn1318,fin,Uralic
+LAD,Ladino,Eurasia,41.205,28.6632,ladi1251,lad,Indo-European
+AKP,Siwu,Africa,7.23811,0.44362,siwu1238,akp,Atlantic-Congo
+NSZ,Nisenan (Southern Maidu),North America,38.047,-120.393,nise1244,nsz,Maiduan
+SHS,Shuswap,North America,50.8734,-119.667,shus1248,shs,Salishan
+NGI,Ngizim,Africa,12.1051,11.0178,ngiz1242,ngi,Afro-Asiatic
+SLK,Slovak,Eurasia,48.545705,18.78479,slov1269,slk,Indo-European
+DAL,Dahalo,Africa,-2.1843,40.37,daha1245,dal,Afro-Asiatic
+BBA,Baatonum,Africa,9.63186,2.99607,baat1238,bba,Atlantic-Congo
+APE,"Bukiyip, Mountain Arapesh",Papunesia,-3.47169,143.111,buki1249,ape,Nuclear Torricelli
+PAV,Wariʼ,South America,-10.69948,-64.56152,wari1268,pav,Chapacuran
+NJM,Angami,Eurasia,25.6841,93.8668,anga1288,njm,Sino-Tibetan
+SER,Serrano,North America,33.9479,-116.772,serr1255,ser,Uto-Aztecan
+MYA,Burmese,Eurasia,20.7926,93.9665,nucl1310,mya,Sino-Tibetan
+BEM,Bemba,Africa,-10.6122,29.2993,bemb1257,bem,Atlantic-Congo
+KEK,Q'eqchi',North America,15.3788,-89.2452,kekc1242,kek,Mayan
+HAK,"Chinese, Hakka",Eurasia,25.0,116.0,hakk1236,hak,Sino-Tibetan
+PDT,Plautdietsch,North America,49.578028,-109.353868,plau1238,pdt,Indo-European
+MGD,Moru,Africa,5.1232,30.3287,moru1253,mgd,Central Sudanic
+ZPK,Zapotec,North America,16.2971,-95.7414,tlac1240,zpk,Otomanguean
+RON,Romanian,Eurasia,46.3913,24.2256,roma1327,ron,Indo-European
+CAT,Catalan,Eurasia,41.453,1.569,stan1289,cat,Indo-European
+CHA,Chamorro,Papunesia,13.438011,144.74474,cham1312,cha,Austronesian
+MKD,Macedonian,Eurasia,41.5957,21.7932,mace1250,mkd,Indo-European
+NGN,Ngwo,Africa,6.17739,9.84369,ngwo1241,ngn,Atlantic-Congo
+NAQ,Nama,Africa,-25.0747,17.9767,nama1264,naq,Khoe-Kwadi
+GIM,Gimi,Papunesia,-6.42097,145.214,gimi1243,gim,Nuclear Trans New Guinea
+NEP,Nepali,Eurasia,27.5947033333,87.6200833333,east1436,nep,Indo-European
+FUH,Fulfulde (Western Niger),Africa,14.2471,-0.52004,west2454,fuh,Atlantic-Congo
+TUB,Tübatulabal,North America,35.327,-117.163,tuba1278,tub,Uto-Aztecan
+SOT,"Sotho, Southern",Africa,-28.78,27.89,sout2807,sot,Atlantic-Congo
+AKA,Akan,Africa,6.34756,-1.33254,akan1250,aka,Atlantic-Congo
+TEM,Themne,Africa,8.90294,-12.3331,timn1235,tem,Atlantic-Congo
+BNH,Banawa,South America,-7.62223,-66.5662,jama1261,jaa,Arawan
+FLA,Montana Salish (Flathead),North America,47.5825,-114.19,kali1308,fla,Salishan
+EUS,Basque,Eurasia,43.2787,-1.31622,basq1248,eus,Isolate
+SVA,Svan,Eurasia,42.9134,42.5915,svan1243,sva,Kartvelian
+CES,Czech,Eurasia,49.873398,15.10437,czec1258,ces,Indo-European
+MAR,Marathi,Eurasia,17.9344,76.6665,mara1378,mar,Indo-European
+HMB,Songhay,Africa,15.2948,-1.69301,humb1243,hmb,Songhay
+FUB,Fulfulde (Adamawa),Africa,8.140326,13.077338,adam1253,fub,Atlantic-Congo
+BKM,Kom,Africa,6.2596,10.3348,komc1235,bkm,Atlantic-Congo
+SWH,Swahili,Africa,-8.25605,37.624,swah1253,swh,Atlantic-Congo
+HRV,Croatian,Eurasia,45.555,15.982,croa1245,hrv,Indo-European
+HAW,Hawaiian,Papunesia,19.6297,-155.43,hawa1245,haw,Austronesian
+MFZ,Mabaan,Africa,9.81455,33.5404,maba1273,mfz,Nilotic
+GWX,Gua (Anum),Africa,6.52106,0.16932,guaa1238,gwx,Atlantic-Congo
+BSQ,Bassa,Africa,7.27501,-11.543,nucl1418,bsq,Kru
+PES,Farsi (Western),Eurasia,32.9,53.3,west2369,pes,Indo-European
+TZU,"Tzotzil, Huixtán",North America,16.64,-92.74,tzot1261,tzu,Bookkeeping
+CHZ,"Chinantec, Ozumacín",North America,17.6976,-96.2249,ozum1235,chz,Otomanguean
+AFU,Awutu (Efutu),Africa,5.42441,-0.59545,awut1241,afu,Atlantic-Congo
+WOL,Wolof,Africa,15.2534,-15.383,nucl1347,wol,Atlantic-Congo
+ISL,Icelandic,Eurasia,63.4837,-19.0212,icel1247,isl,Indo-European
+COL,Coumbia-Wenatchi,North America,48.217,-118.454,colu1241,col,Salishan
+KWN,Kwangali,Africa,-17.9026,19.256,kwan1273,kwn,Atlantic-Congo
+blu,Hmong Njua,Eurasia,22.5638,101.95,hmon1264,hnj,Hmong-Mien
+RYU,Okinawan,Eurasia,26.14854,127.7816,cent2126,ryu,Japonic
+AGX,Aghul,Eurasia,41.9242,47.5843,aghu1253,agx,Nakh-Daghestanian
+KAT,Georgian,Eurasia,41.850397,43.78613,nucl1302,kat,Kartvelian
+TEL,Telugu,Eurasia,16.4529,78.7024,telu1262,tel,Dravidian
+ILO,Ilocano,Papunesia,15.9361,120.993,ilok1237,ilo,Austronesian
+POL,Polish,Eurasia,51.8439,18.6255,poli1260,pol,Indo-European
+ORW,Oro Win,South America,-10.737,-64.0299,orow1243,orw,Chapacuran
+GUP,Gunwinggu,Australia,-12.3398,133.358,gunw1252,gup,Gunwinyguan
+PAN,Panjabi,Eurasia,30.0368,75.6702,panj1256,pan,Indo-European
+KUA,Kwanyama,Africa,-17.7176,16.58,kuan1247,kua,Atlantic-Congo
+BXM,Buryat,Eurasia,48.7686,109.005,mong1330,bxm,Mongolic-Khitan
+AER,"Arrernte, Eastern",Australia,-23.3583,135.046,east2379,aer,Pama-Nyungan
+CEB,Cebuano,Papunesia,8.38799,124.367,cebu1242,ceb,Austronesian
+XHO,Xhosa,Africa,-31.0389,28.0769,xhos1239,xho,Atlantic-Congo
+CPA,"Chinantec, Palantla",North America,17.884,-96.3407,pala1351,cpa,Otomanguean
+YAK,Yakima,North America,46.2655,-120.756,yaki1237,yak,Sahaptian
+TSO,Tsonga,Africa,-23.5754,31.8105,tson1249,tso,Atlantic-Congo
+IDU,Idoma,Africa,7.19139,7.71261,idom1241,idu,Atlantic-Congo
+MEN,Mende,Africa,7.90935,-10.9926,mend1266,men,Mande
+GAZ,"Oromo, West Central",Africa,8.81391,36.7365,west2721,gaz,Afro-Asiatic
+NWE,Ngwe,Africa,5.49787,9.9028,ngwe1238,nwe,Atlantic-Congo
+ULK,Meriam,Papunesia,-9.59575,143.773,meri1244,ulk,Eastern Trans-Fly
+KUB,Kutep,Africa,7.07479,10.0916,kute1248,kub,Atlantic-Congo
+AFN,Defaka,Africa,4.58451,7.50186,defa1248,afn,Ijoid
+KBD,Kabardian,Eurasia,43.5082,43.3918,kaba1278,kbd,Abkhaz-Adyge
+POR,Portuguese,Eurasia,39.91,-8.1,port1283,por,Indo-European
+ALE_WESTERN,Aleut (Western),North America,55.2,166.0,west2616,,Eskimo-Aleut
+GUG,Guarani (Paraguayan),South America,-25.60551,-57.08816,para1311,gug,Tupian
+NMN,!Xóõ,Africa,-24.20022,20.79583,huaa1248,nmn,Tuu
+SRP,Serbian,Eurasia,44.3238,21.9192,serb1264,srp,Indo-European
+KAN,Kannada,Eurasia,13.5878,76.1198,nucl1305,kan,Dravidian
+CYO,Cuyonon,Papunesia,10.3201,119.3,cuyo1237,cyo,Austronesian
+EFI,Efik,Africa,4.89379,8.38121,efik1245,efi,Atlantic-Congo
+EBR,Cama,Africa,5.36868,-4.03188,ebri1238,ebr,Atlantic-Congo
+IKW,Ikwere,Africa,5.04333,6.86651,ikwe1242,ikw,Atlantic-Congo
+AMH,Amharic,Africa,11.708182,39.543456,amha1245,amh,Afro-Asiatic
+KTZ,Juǀʼhoan,Africa,-19.688,20.7673,juho1239,ktz,Kxa
+SUS,Susu,Africa,10.4046,-13.3628,susu1250,sus,Mande
+KOR_CHEJU,Cheju,Eurasia,33.3805,126.5554,jeju1234,jje,Koreanic
+KNN,Konkani,Eurasia,18.404,73.994,konk1267,knn,Indo-European
+THA,Thai,Eurasia,14.192,100.671,thai1261,tha,Tai-Kadai
+RUN,Kirundi,Africa,-2.94,29.97,rund1242,run,Atlantic-Congo
+VLS,Vlaams,Eurasia,51.0754,3.11345,vlaa1240,vls,Indo-European
+SEE,Seneca,North America,42.56,-77.53,sene1264,see,Iroquoian
+TSU,Tsou,Papunesia,23.216,120.787,tsou1248,tsu,Austronesian
+TSW,Kambari (Tsishingini),Africa,10.2882,5.11073,tsis1238,tsw,Atlantic-Congo
+SOM,Somali,Africa,4.778704,45.152856,soma1255,som,Afro-Asiatic
+KHM,Khmer,Eurasia,12.0515,105.015,cent1989,khm,Austroasiatic
+DAN,Danish,Eurasia,54.8655,9.36284,dani1285,dan,Indo-European
+AFR,Afrikaans,Africa,-22.0,30.0,afri1274,afr,Indo-European
+ABQ,Abaza,Eurasia,44.25,42.0,abaz1241,abq,Abkhaz-Adyge
+AZB,Azerbaijani,Eurasia,36.5137,48.4302,sout2697,azb,Turkic
+HYE,Armenian,Eurasia,40.0,45.0,nucl1235,hye,Indo-European
+GAA,Gã,Africa,5.65488,-0.18598,gaaa1244,gaa,Atlantic-Congo
+BEN,Bengali,Eurasia,24.0,90.0,beng1280,ben,Indo-European
+GLE,"Gaelic, Irish",Eurasia,53.2186,-7.61509,iris1253,gle,Indo-European
+NOB,"Norwegian, Bokmål",Eurasia,61.112,8.886,norw1259,nob,Indo-European
+YDD,Yiddish,Eurasia,51.75,19.42,east2295,ydd,Indo-European
+XMF,Mingrelian,Eurasia,42.5129,41.8719,ming1252,xmf,Kartvelian
+IJC,Izon,Africa,5.17986,5.51702,izon1238,ijc,Ijoid
+MNW,Mon,Eurasia,15.49394,98.122465,monn1252,mnw,Austroasiatic
+NLD,Dutch,Eurasia,52.0,5.0,dutc1256,nld,Indo-European
+NHX,"Nahuatl, Isthmus-Mecayapan",North America,18.2,-94.7547,isth1242,nhx,Uto-Aztecan
+ADY,Adyghe,Eurasia,44.0,39.33,adyg1241,ady,Abkhaz-Adyge
+FUF,Pular,Africa,12.1826,-12.7338,pula1262,fuf,Atlantic-Congo
+ARS,"Arabic, Najdi",Eurasia,30.3371,42.1773,najd1235,ars,Afro-Asiatic
+TIR,Tigrigna,Africa,15.3359,38.9266,tigr1271,tir,Afro-Asiatic
+LUS,Mizo,Eurasia,22.6138,92.6247,lush1249,lus,Sino-Tibetan
+ZUL,Zulu,Africa,-28.9,30.2,zulu1248,zul,Atlantic-Congo
+Gikuyu,Gikuyu,Africa,-0.29005,36.719,kiku1240,kik,Atlantic-Congo
+III,Yi,Eurasia,28.1947,102.121,sich1238,iii,Sino-Tibetan
+BOM,Berom,Africa,9.67037,8.81221,bero1242,bom,Atlantic-Congo
+LED,Lendu,Africa,2.1898,30.6794,lend1245,led,Central Sudanic
+CJI,Chamalal,Eurasia,42.5024,45.995,cham1309,cji,Nakh-Daghestanian
+ASM,Assamese,Eurasia,26.0876,91.2932,assa1263,asm,Indo-European
+TKQ,Tee,Africa,4.73213,7.37553,teee1242,tkq,Atlantic-Congo
+MAL,Malayalam,Eurasia,9.59208,76.7651,mala1464,mal,Dravidian
+MAJ,Mazatec (Jalapa de Diaz),North America,18.0803,-96.4977,jala1237,maj,Otomanguean
+AQC,Archi,Eurasia,42.3239,46.8267,arch1244,aqc,Nakh-Daghestanian
+CPN,Cherepon,Africa,6.05387,-0.10955,cher1271,cpn,Atlantic-Congo
+KYE,Krache,Africa,7.93475,0.01925,krac1238,kye,Atlantic-Congo
+CMN,"Chinese, Mandarin",Eurasia,40.0209,116.228,mand1415,cmn,Sino-Tibetan
+BCL,"Bicolano, Central",Papunesia,13.7574,123.403,cent2087,bcl,Austronesian
+MWF,Murrinh-Patha,Australia,-14.74852,129.70152,murr1258,mwf,Southern Daly
+YUE,"Chinese, Cantonese",Eurasia,23.0,113.0,yuec1235,yue,Sino-Tibetan
+SRR,Serer-Sine,Africa,13.8941,-16.3916,sere1260,srr,Atlantic-Congo
+AEB,"Arabic, Tunisian Spoken",Africa,33.7966,9.56156,tuni1259,aeb,Afro-Asiatic
+KNO,Kono,Africa,8.67039,-10.9214,kono1268,kno,Mande
+BVR,Burarra,Australia,-12.3061,134.365,bura1267,bvr,Maningrida
+RUT,Rutul,Eurasia,41.6187,47.3244,rutu1240,rut,Nakh-Daghestanian
+KAC,Jingpho,Eurasia,25.4634,97.3278,kach1280,kac,Sino-Tibetan
+ABK,Abkhaz,Eurasia,43.056218,41.159115,abkh1244,abk,Abkhaz-Adyge
+SBC,Kele,Papunesia,-2.09163,147.064,kele1258,sbc,Austronesian
+APC,"Arabic, North Levantine Spoken",Eurasia,34.1709,36.0468,nort3139,apc,Afro-Asiatic
+TPI,Tok Pisin,Papunesia,-9.41971,147.303,tokp1240,tpi,Indo-European
+CKB,"Kurdish, Central",Eurasia,35.6539,45.8077,cent1972,ckb,Indo-European
+BAM,Bamanankan,Africa,12.9,-7.65,bamb1269,bam,Mande
+CHE,Chechen,Eurasia,43.5,45.5,chec1245,che,Nakh-Daghestanian
+OKR,Kirike,Africa,4.41126,6.98938,kiri1254,okr,Ijoid
+TIW,Tiwi,Australia,-11.6308,130.949,tiwi1244,tiw,Isolate
+ELL,Greek,Eurasia,38.36,23.13,mode1248,ell,Indo-European
+YIJ,Yindjibarndi,Australia,-21.5379,117.001,yind1247,yij,Pama-Nyungan

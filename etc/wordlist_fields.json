@@ -19,7 +19,7 @@
     },
     "eng_word-list_1966_02.html": {
       "Sound Illustrated": "",
-      "English": "Gloss"
+      "English": "Gloss Form"
     },
     "eng_word-list_1976_01.html": {
       "Sound Illustrated": "",
@@ -196,15 +196,18 @@
     },
     "nav_word-list_1992_01.html": {
       "Notes": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     },
     "nav_word-list_1992_02.html": {
       "Notes": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     },
     "nav_word-list_1992_03.html": {
       "Notes": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     },
     "nav_word-list_1993_01.html": {
       "Sound Illustrated": "",
@@ -279,7 +282,8 @@
       "Setswana gloss": ""
     },
     "huc_word-list_1979_02.html": {
-      "Notes on Recording": ""
+      "Notes on Recording": "",
+      "NA": "Form Gloss"
     }
   },
   "HEB": {
@@ -328,7 +332,8 @@
       "English": "Gloss"
     },
     "mpz_word-list_1976_02.html": {
-      "Notes on Recording": ""
+      "Notes on Recording": "",
+      "NA": "Form Gloss"
     }
   },
   "TON": {
@@ -486,7 +491,8 @@
   "SHK": {
     "shk_word-list_0000_01.html": {
       "Notes": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     }
   },
   "MLT": {
@@ -516,7 +522,8 @@
     },
     "ibo_word-list_1966_01.html": {
       "Potential assimilations": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     },
     "ibo_word-list_1976_01.html": {
       "Sound Illustrated": "",
@@ -573,7 +580,8 @@
       "English gloss": "Gloss"
     },
     "guj_word-list_1965_01.html": {
-      "Contrast \u02d0 Breathy Voice": ""
+      "Contrast \u02d0 Breathy Voice": "",
+      "NA": "Form Gloss"
     },
     "guj_word-list_1972_01.html": {
       "IPA transcription": "Form",
@@ -621,11 +629,13 @@
     },
     "lug_word-list_1992_01.html": {
       "Note": "",
-      "English Gloss": "Gloss"
+      "English Gloss": "Gloss",
+      "NA": "Form"
     },
     "lug_story_0000_01.html": {
       "Note": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "MED": {
@@ -883,7 +893,8 @@
       "Tswana": ""
     },
     "yey_word-list_1998_39.html": {
-      "Yeyi": "Form"
+      "Yeyi": "Form",
+      "NA": "Gloss"
     },
     "yey_word-list_1998_40.html": {
       "Yeyi": "Form",
@@ -922,7 +933,8 @@
   "PBU": {
     "pbu_story_0000_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "DEG": {
@@ -958,7 +970,8 @@
     },
     "hun_story_1957_01.html": {
       "Note": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "PAG": {
@@ -1302,15 +1315,18 @@
     },
     "fra_word-list_1983_01.html": {
       "Orthography": "",
-      "Transcription": "Form"
+      "Transcription": "Form",
+      "NA": "Gloss"
     },
     "fra_word-list_1983_02.html": {
       "Orthography": "",
-      "Transcription": "Form"
+      "Transcription": "Form",
+      "NA": "Gloss"
     },
     "fra_passage_1983_01.html": {
       "Orthography": "",
-      "Transcription": "Form"
+      "Transcription": "Form",
+      "NA": "Gloss"
     },
     "fra_word-list_1983_03.html": {
       "Sound Illustrated": "",
@@ -1321,7 +1337,7 @@
     "fra_word-list_1993_01.html": {
       "Orthography": "",
       "IPA": "Form",
-      "Gloss": ""
+      "Gloss": "Gloss"
     },
     "fra_word-list_2000_01.html": {
       "Sound Illustrated": "",
@@ -1368,7 +1384,7 @@
   },
   "VIE": {
     "vie_word-list_1998_01.html": {
-      "Broad Transcription": "",
+      "Broad Transcription": "Form",
       "Narrow Transcription": "",
       "English": "Gloss"
     },
@@ -1436,7 +1452,7 @@
     "vie_word-list_1983_02.html": {
       "Broad Transcription": "Form",
       "Narrow Transcription": "",
-      "Gloss": ""
+      "Gloss": "Gloss"
     },
     "vie_word-list_1985_01.html": {
       "Tone": "",
@@ -1460,8 +1476,8 @@
     }
   },
   "MNR": {
-    "bul_word-list_1971_01.html": {
-      "2": "",
+    "mnr_word-list.html": {
+      "2": "Form",
       "English": "Gloss"
     }
   },
@@ -1681,7 +1697,8 @@
     },
     "cym_story_1966_01.html": {
       "Note": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "NNO": {
@@ -1940,7 +1957,8 @@
   },
   "IRK": {
     "irk_word-list_1991_01.html": {
-      "Notes": ""
+      "Notes": "",
+      "NA": "Form Gloss"
     }
   },
   "WUU": {
@@ -2006,7 +2024,8 @@
   "EST": {
     "est_story_1956_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     },
     "est_story_1969_01.html": {
       "Broad IPA Transcription": "Form",
@@ -2233,7 +2252,8 @@
       "English": "Gloss"
     },
     "bfd_word-list_1962_02.html": {
-      "Swadesh list in English": ""
+      "Swadesh list in English": "Gloss",
+      "NA": "Form"
     }
   },
   "NGJ": {
@@ -2321,13 +2341,15 @@
     },
     "acm_story_1982_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "PRV": {
     "prv_story_0000_01.html": {
       "Transcription": "Form",
-      "Notes": ""
+      "Notes": "",
+      "NA": "Gloss"
     }
   },
   "KZI": {
@@ -2344,14 +2366,16 @@
   },
   "DIU": {
     "diu_word-list_1988_01.html": {
-      "Diriku Speech Recording 1": ""
+      "Diriku Speech Recording 1": "",
+      "NA": "Form Gloss"
     },
     "diu_word-list_1988_02.html": {
       "Orthography": "Form",
       "English Gloss": "Gloss"
     },
     "diu_word-list_1988_03.html": {
-      "Diriku Speech Recording 2": ""
+      "Diriku Speech Recording 2": "",
+      "NA": "Form Gloss"
     }
   },
   "NAM": {
@@ -2567,7 +2591,8 @@
     },
     "fin_story_0000_01.html": {
       "Note": "",
-      "English translation": "Gloss"
+      "English translation": "Gloss",
+      "NA": "Form"
     }
   },
   "LAD": {
@@ -2590,7 +2615,8 @@
   "NSZ": {
     "nsz_story_0000_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "SHS": {
@@ -2779,7 +2805,7 @@
     },
     "ron_word-list_1985_01.html": {
       "Romanian Orthography": "",
-      "IPA Transcription": "",
+      "IPA Transcription": "Form",
       "English Gloss": "Gloss"
     },
     "ron_word-list_1989_01.html": {
@@ -2973,7 +2999,8 @@
     },
     "aka_story_0000_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "TEM": {
@@ -3177,11 +3204,13 @@
     },
     "hrv_story_0000_02.html": {
       "Note": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     },
     "hrv_story_0000_03.html": {
       "Note": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "HAW": {
@@ -3194,7 +3223,8 @@
   "MFZ": {
     "mfz_word-list_0000_01.html": {
       "Notes": "",
-      "English": "Gloss"
+      "English": "Gloss",
+      "NA": "Form"
     }
   },
   "GWX": {
@@ -3205,7 +3235,8 @@
   },
   "BSQ": {
     "bsq_word-list_1984_01.html": {
-      "Sound Illustrated": ""
+      "Sound Illustrated": "",
+      "NA": "Form Gloss"
     },
     "bsq_word-list_1984_02.html": {
       "Orthography": "",
@@ -3429,7 +3460,7 @@
   },
   "TEL": {
     "tel_word-list_1973_01.html": {
-      "Transcription": "",
+      "Transcription": "Form",
       "English": "Gloss"
     },
     "tel_word-list_1981_01.html": {
@@ -3553,7 +3584,8 @@
     },
     "xho_story_0000_01.html": {
       "Notes": "",
-      "English Translation": "Gloss"
+      "English Translation": "Gloss",
+      "NA": "Form"
     }
   },
   "CPA": {
@@ -3644,8 +3676,7 @@
     "afn_story_1994_01.html": {
       "Orthography": "",
       "Defaka": "Form",
-      "English": "Gloss",
-      "type": "text"
+      "English": "Gloss"
     }
   },
   "KBD": {
@@ -3665,6 +3696,7 @@
     "por_word-list_1980_01.html": {
       "Orthography": "",
       "Transcription": "Form",
+      "NA": "Gloss",
       "type": "text"
     },
     "por_word-list_1982_01.html": {
@@ -3925,7 +3957,8 @@
     },
     "ktz_word-list_1986_01.html": {
       "Notes": "",
-      "English Gloss": "Gloss"
+      "English Gloss": "Gloss",
+      "NA": "Form"
     },
     "ktz_word-list_1988_01.html": {
       "Narrow Transcription of Click": "",
@@ -4145,10 +4178,12 @@
       "English": "Gloss"
     },
     "hye_word-list_1973_01.html": {
-      "Orthography": "Form"
+      "Orthography": "Form",
+      "NA": "Gloss"
     },
     "hye_word-list_1983_01.html": {
-      "Orthography": "Form"
+      "Orthography": "Form",
+      "NA": "Gloss"
     },
     "hye_word-list_1984_01.html": {
       "Native Orthography": "",
@@ -4487,7 +4522,8 @@
       "English": "Gloss"
     },
     "iii_word-list_1983_02.html": {
-      "Yi": "Form"
+      "Yi": "Form",
+      "NA": "Gloss"
     }
   },
   "BOM": {
@@ -4496,7 +4532,8 @@
       "English": "Gloss"
     },
     "bom_word-list_0000_01.html": {
-      "Transcription": "Form"
+      "Transcription": "Form",
+      "NA": "Gloss"
     }
   },
   "LED": {
@@ -4543,7 +4580,8 @@
       "English": "Gloss"
     },
     "mal_sounds_1979_01.html": {
-      "Sound Illustrated": ""
+      "Sound Illustrated": "Form",
+      "NA": "Gloss"
     }
   },
   "MAJ": {
@@ -4855,17 +4893,19 @@
     "ckb_story_1982_01.html": {
       "Notes": "",
       "English Translation": "Gloss",
-      "type": "earthwindandsun"
+      "type": "earthwindandsun",
+      "NA": "Form"
     }
   },
   "BAM": {
     "bam_word-list_1973_01.html": {
       "Bambara Orthography": "",
-      "Bambara (IPA)": "",
+      "Bambara (IPA)": "Form",
       "English": "Gloss"
     },
     "bam_word-list_1982_01.html": {
-      "Bambara": "Form"
+      "Bambara": "Form",
+      "NA": "Gloss"
     }
   },
   "CHE": {

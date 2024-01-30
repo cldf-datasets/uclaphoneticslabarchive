@@ -1,0 +1,81 @@
+{
+    "creators": [
+        {
+            "name": "Peter Ladefoged"
+        },
+        {
+            "name": "Barbara Blankenship"
+        },
+        {
+            "name": "Russell G. Schuh"
+        },
+        {
+            "name": "Patrick Jones"
+        },
+        {
+            "name": "Nicole Gfroerer"
+        },
+        {
+            "name": "Emily Griffiths"
+        },
+        {
+            "name": "Lisa Harrington"
+        },
+        {
+            "name": "Cheryl Hipp"
+        },
+        {
+            "name": "Patrick Jones"
+        },
+        {
+            "name": "Mayu Kaneko"
+        },
+        {
+            "name": "Claire Moore-Cantwell"
+        },
+        {
+            "name": "Gunhye Oh"
+        },
+        {
+            "name": "Karen Pfister"
+        },
+        {
+            "name": "Keli Vaughan"
+        },
+        {
+            "name": "Rosary Videc"
+        },
+        {
+            "name": "Sarah Weismuller"
+        },
+        {
+            "name": "Samara Weiss"
+        },
+        {
+            "name": "Jamie White"
+        },
+        {
+            "name": "Sarah Conlon"
+        },
+        {
+            "name": "WingSze Jamie Lee"
+        },
+        {
+            "name": "Rafael Toribio"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Robert Forkel",
+            "type": "Editor"
+        }
+    ],
+    "title": "CLDF dataset derived from \"The UCLA Phonetics Lab Archive\" from 2009",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ladefoged, P., Blankenship, B., Schuh, R. G., Jones, P., Gfroerer, N., Griffiths, E., Harrington, L., Hipp, C., Jones, P., Kaneko, M, Moore-Cantwell, C., Oh, G., Pfister, K., Vaughan, K., Videc, R., Weismuller, S., Weiss, S., White, J., Conlon, S., Lee, WS. J., and Toribio, R. (2009). The UCLA Phonetics Lab Archive. Los Angeles, CA: UCLA Department of Linguistics. http://archive.phonetics.ucla.edu</p>\n</blockquote>"
+}
