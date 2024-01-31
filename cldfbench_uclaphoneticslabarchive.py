@@ -93,9 +93,16 @@ class Dataset(BaseDataset):
     dir = pathlib.Path(__file__).parent
     id = "uclaphoneticslabarchive"
 
+    @property
+    def site_dir(self):
+        res = self.raw_dir / 'site'
+        if not res.exists():
+            res.mkdir()
+        return res
+
     def get_page(self, path=None, fname=None):
         url = 'http://archive.phonetics.ucla.edu/Language%20Indices/index_available.htm'
-        target = self.raw_dir / 'site' / 'index.html'
+        target = self.site_dir / 'index.html'
 
         if path:
             path = path.replace('maj.html', 'MAJ.html')
@@ -105,10 +112,7 @@ class Dataset(BaseDataset):
             url = urllib.parse.urljoin(url, path)
             if not self.raw_dir.joinpath('site', lid).exists():
                 self.raw_dir.joinpath('site', lid).mkdir()
-            target = self.raw_dir / 'site' / lid / fname
-
-        if url.endswith('mpz_word-list_1976_01.mp3'):
-            url += '.LCK'
+            target = self.site_dir / lid / fname
 
         # Wrong wordlist linked from MNR index:
         url = url.replace('/MNR/bul_word-list_1971_01', '/MNR/mnr_word-list')
@@ -116,17 +120,8 @@ class Dataset(BaseDataset):
         url = url.replace('amh_conversation_1967', 'amh_word-list_1967')
 
         if not target.exists():
-            #print(url)
-            #try:
-            #    urllib.request.urlretrieve(url, target)
-            #except:
-            #    parts = url.split('.')
-            #    url = '.'.join(parts[:-1]) + '.' + parts[-1].upper()
-            #    try:
-            #        urllib.request.urlretrieve(url, target)
-            #    except:
-            #        raise
-            pass
+            print(url)
+            urllib.request.urlretrieve(url, target)
         return url, target
 
     def cldf_specs(self):
@@ -158,36 +153,34 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
 """.format(self.dir.joinpath('NOTES.md').read_text(encoding='utf8')), section='Description')
 
     def cmd_download(self, args):
-        mdfields = collections.Counter()
-        wlfields = {}
-
         # Read the language index:
-        index = doc(self.get_page()[1])
-        for link in index.xpath('.//a'):
+        for link in doc(self.get_page()[1]).xpath('.//a'):
             if '/Language/' in link.attrib['href']:
                 self.get_page('../Language' + link.attrib['href'].split('/Language')[1], fname='index.html')
 
-        fname_to_url = {}
         data = {}
-
-        # Read the index pages of individual languages:
-        for d in self.raw_dir.joinpath('site').iterdir():
+        for d in self.site_dir.iterdir():
             if d.is_dir():
+                # Read the index pages of individual languages:
                 index = doc(d.joinpath('index.html'))
+                for link in index.xpath('.//a'):
+                    # Retrieve linked pages:
+                    href = link.attrib['href']
+                    if not (href.startswith('..') or href.startswith('http:')):
+                        if any(suffix in href for suffix in ['.wav', '.tif', '.mp3', '.jpg']):
+                            # We don't download media files.
+                            continue
+                        if not href and d.name == 'MZQ':
+                            # MZQ has record details, but the link is not correct!
+                            href = 'mzq_record_details.html'
+                        self.get_page('../Language/{}/{}'.format(d.name, href.split('#')[0]))
+
                 lname = index.xpath('.//title')[0].text
-
                 mds = list(d.glob('*_record_details.html'))
-                assert len(mds) == 1 or d.name == 'MZQ', d
-                if mds:
-                    md = dict(iter_tables(lxml.html.fromstring(mds[0].read_text(encoding='utf8'))))
-                    for d_ in md.values():
-                        mdfields.update([k for k, v in d_.items() if v])
-                else:
-                    md = {}
+                assert len(mds) == 1, d
+                md = dict(iter_tables(lxml.html.fromstring(mds[0].read_text(encoding='utf8'))))
 
-                wlfields[d.name] = {}
                 i = -1
-
                 recordings = []
                 words = {}
                 for i, rec in iter_trs(index, None):
@@ -204,23 +197,11 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
                                        k in ['Scanned Word List (JPG)', 'JPG 2', 'Scanned Word List (TIF)', 'TIF 2']
                                        if rec.get(k)],
                                 words=[w for _, w in iter_trs(doc(d.joinpath(fname)), fname)])
-                        if words[fname]:
-                            wlfields[d.name][fname] = {w: '' for w in words[fname]['words'][0] if w != 'Entry'}
 
                 assert i >= 0
-
                 data['{}|{}'.format(lname, d.name)] = dict(recordings=recordings, words=words)
 
-                for link in index.xpath('.//a'):
-                    if not (link.attrib['href'].startswith('..') or link.attrib['href'].startswith('http:')):
-                        if '.wav' in link.attrib['href'] or '.tif' in link.attrib['href']:
-                            continue
-                        url, fname = self.get_page('../Language/{}/{}'.format(d.name, link.attrib['href'].split('#')[0]))
-                        fname_to_url['{}/{}'.format(d.name, fname.name)] = url
-
-        #dump(wlfields, self.etc_dir / 'wordlist_fields.json', indent=2)
         dump(data, self.raw_dir / 'recordings.json', indent=2)
-        #dump(sorted(fname_to_url.items()), self.raw_dir / 'fname2url.json', indent=2)
 
     def cmd_makecldf(self, args):
         self.schema(args.writer.cldf)
@@ -358,6 +339,7 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
                                 Media_Type=mimetypes.guess_type('a.' + suffix)[0],
                                 Download_URL=fnames[dname, fname][0],
                                 size=fnames[dname, fname][1],
+                                length=fnames[dname, fname][2],
                             ))
                             mids[fname] = fname.replace('.', '_')
 
@@ -462,7 +444,13 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
                 'name': 'size',
                 'datatype': 'integer',
                 'dc:description': 'File size in bytes'
+            },
+            {
+                'name': 'length',
+                'datatype': 'float',
+                'dc:description': 'Length of an audio recording in seconds'
             }
+
         )
         cldf.add_component('ParameterTable')
         cldf.add_columns(

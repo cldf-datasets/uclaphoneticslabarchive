@@ -1,5 +1,8 @@
 # Releasing the dataset
 
+```shell
+cldfbench download cldfbench_uclaphoneticslabarchive.py
+```
 
 ```shell
 cldfbench makecldf cldfbench_uclaphoneticslabarchive.py --glottolog-version v4.8 --with-cldfreadme --with-zenodo

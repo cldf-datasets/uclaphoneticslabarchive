@@ -16,7 +16,7 @@
         {
             "rdf:about": "https://github.com/cldf-datasets/uclaphoneticslabarchive",
             "rdf:type": "prov:Entity",
-            "dc:created": "3fddad2",
+            "dc:created": "ecf65f2",
             "dc:title": "Repository"
         },
         {
@@ -393,7 +393,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#MediaTable",
-            "dc:extent": 7986,
+            "dc:extent": 7984,
             "tableSchema": {
                 "columns": [
                     {
@@ -442,6 +442,11 @@
                         "dc:description": "File size in bytes",
                         "datatype": "integer",
                         "name": "size"
+                    },
+                    {
+                        "dc:description": "Length of an audio recording in seconds",
+                        "datatype": "float",
+                        "name": "length"
                     }
                 ],
                 "primaryKey": [

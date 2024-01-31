@@ -10,7 +10,7 @@ cldfbench==1.14.0
 -e git+https://github.com/cldf-datasets/imtvault@1087aa3d1dc1d846bf2fdc986290d7950025c03b#egg=cldfbench_imtvault
 -e git+https://github.com/cldf-datasets/languageatlasofthepacificarea@69d457ad4b5021ed1d6bc70e3dbf71910f639f2b#egg=cldfbench_languageatlasofthepacificarea
 -e git+https://github.com/cldf-datasets/rangelovvanuatu@f96ca8f58792d9bbd2dc7d80a62540e79639d6e1#egg=cldfbench_rangelovvanuatu
--e git+https://github.com/cldf-datasets/uclaphoneticslabarchive@3fddad2ab595511ade7b2fd27e9022bb2fba9bfb#egg=cldfbench_uclaphoneticslabarchive
+-e git+https://github.com/cldf-datasets/uclaphoneticslabarchive@ecf65f20808ddf5eaeff11cb3d6d110484e808d8#egg=cldfbench_uclaphoneticslabarchive
 cldfcatalog==1.5.1
 cldfviz==1.0.1
 cldfzenodo==1.1.0
@@ -40,6 +40,7 @@ Markdown==3.4.1
 MarkupSafe==2.1.1
 matplotlib==3.6.2
 multipledispatch==0.6.0
+mutagen==1.47.0
 nameparser==1.1.2
 newick==1.9.0
 numpy==1.24.1
