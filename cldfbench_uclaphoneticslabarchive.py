@@ -4,9 +4,9 @@ This module implements the conversion of the HTML pages of the UCLA phonetics la
 Sprinkled throughout are comments indicating fixes of the inconsistencies encountered in the
 web site's files.
 """
-import argparse
 import re
 import pathlib
+import argparse
 import mimetypes
 import collections
 import urllib.parse
@@ -19,6 +19,7 @@ from clldutils.misc import slug
 from clldutils.markup import add_markdown_text
 from cldfbench import Dataset as BaseDataset, CLDFSpec
 
+BASE_URL = "http://archive.phonetics.ucla.edu/"
 GLOTTOCODES = {
     'ALE_EASTERN': 'east2533',
     'ALE_WESTERN': 'west2616',
@@ -101,7 +102,7 @@ class Dataset(BaseDataset):
         return res
 
     def get_page(self, path=None, fname=None):
-        url = 'http://archive.phonetics.ucla.edu/Language%20Indices/index_available.htm'
+        url = '{}Language%20Indices/index_available.htm'.format(BASE_URL)
         target = self.site_dir / 'index.html'
 
         if path:
@@ -130,13 +131,14 @@ class Dataset(BaseDataset):
     def cmd_readme(self, args: argparse.Namespace) -> str:
         # link map and ERD
         return add_markdown_text(
-            super().cmd_readme(args), """
-{}
+            super().cmd_readme(args),
+            """
+{0}
 
 ### Coverage
 
-The CLDF dataset contains all textual data and metadata from http://archive.phonetics.ucla.edu/ and
-provides URLs of all media files associated with recordings on http://archive.phonetics.ucla.edu/
+The CLDF dataset contains all textual data and metadata from {1} and
+provides URLs of all media files associated with recordings on {1}
 
 The dataset covers all languages represented in the archive.
 
@@ -150,7 +152,8 @@ The following entity-relationship diagram shows how the tables of the dataset ar
 detailed descriptions of the individual columns, see [the CLDF README](cldf/README.md).
 
 ![](erd.svg)
-""".format(self.dir.joinpath('NOTES.md').read_text(encoding='utf8')), section='Description')
+""".format(self.dir.joinpath('NOTES.md').read_text(encoding='utf8'), BASE_URL),
+            section='Description')
 
     def cmd_download(self, args):
         # Read the language index:
@@ -342,6 +345,8 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
                                 length=fnames[dname, fname][2],
                             ))
                             mids[fname] = fname.replace('.', '_')
+                    elif fname:
+                        args.log.warning('No URL for linked file {}'.format(fname))
 
         for pid, glosses in sorted(concepts.items()):
             args.writer.objects['ParameterTable'].append(dict(
@@ -361,11 +366,10 @@ detailed descriptions of the individual columns, see [the CLDF README](cldf/READ
             'Family_Name',
         )
         cldf['LanguageTable', 'ID'].common_props['dc:description'] = \
-            ('We use subdirectory names under http://archive.phonetics.ucla.edu/Language/ as '
+            ('We use subdirectory names under {}Language/ as '
              'identifiers for languages. While these are typically the uppercase "SIL codes" of '
-             'the corresponding languages, there are some exceptions.')
-        cldf['LanguageTable', 'ID'].valueUrl = URITemplate(
-            'http://archive.phonetics.ucla.edu/Language/{ID}/')
+             'the corresponding languages, there are some exceptions.'.format(BASE_URL))
+        cldf['LanguageTable', 'ID'].valueUrl = URITemplate('{}Language/{{ID}}/'.format(BASE_URL))
         t = cldf.add_component(
             'ContributionTable',
             {

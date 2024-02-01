@@ -16,6 +16,9 @@ setup(
     },
     install_requires=[
         'cldfbench',
+        'soundfile',
+        'pydub',
+        'pympi-ling',
     ],
     extras_require={
         'test': [

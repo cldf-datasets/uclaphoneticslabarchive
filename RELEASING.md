@@ -7,6 +7,8 @@ cldfbench download cldfbench_uclaphoneticslabarchive.py
 ```shell
 cldfbench makecldf cldfbench_uclaphoneticslabarchive.py --glottolog-version v4.8 --with-cldfreadme --with-zenodo
 ```
+Note: For a handful of linked files no valid URL could be found, i.e. the corresponding files seem
+to be missing on the UCLA server.
 
 ```shell
 pytest
